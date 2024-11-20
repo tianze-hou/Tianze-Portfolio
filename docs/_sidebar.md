@@ -8,7 +8,7 @@
     * [**2023-07-23 叶落归根：流浪者徐兴邦归乡记**](writings/叶落归根：流浪者徐兴邦归乡记)
     * [**2024-02-04 一个居民共建的社区花园背后：我们每个人都能成为社区的创变者吗？**](writings/一个居民共建的社区花园背后：我们每个人都能成为社区的创变者吗？)
     * [**2024-10-24 克莱因伯格：击穿算法偏见，顶科大奖慧眼识珠**](writings/克莱因伯格：击穿算法偏见，顶科大奖慧眼识珠.md)
-    * [**2024-10-28 WLA Prize Winner Jon Kleinberg: Championing algorithmic fairness and inspiring young scientists**](writings/WLA Prize Winner Jon Kleinberg: Championing algorithmic fairness and inspiring young scientists.md)
+    * [**2024-10-28 WLA Prize Winner Jon Kleinberg: Championing algorithmic fairness and inspiring young scientists**](writings/WLA-Prize-202410.md)
 
 * 新闻编辑
 
