@@ -9,7 +9,7 @@
     * [**2024-02-04 一个居民共建的社区花园背后：我们每个人都能成为社区的创变者吗？**<br>广州日报·新花城](writings/一个居民共建的社区花园背后：我们每个人都能成为社区的创变者吗？)
     * [**2024-10-24 克莱因伯格：击穿算法偏见，顶科大奖慧眼识珠**<br>人民日报客户端](writings/克莱因伯格：击穿算法偏见，顶科大奖慧眼识珠.md)
     * [**2024-10-28 WLA Prize Winner Jon Kleinberg: Championing algorithmic fairness and inspiring young scientists**<br>人民日报英文客户端](writings/WLA-Prize-202410.md)
-    * [**2024-11-04 克莱因伯格：科技向善 促进算法公平**<br>人民日报海外版](http://paper.people.com.cn/rmrbhwb/html/2024-11/04/content_26088829.htm)
+    * [**2024-11-04 克莱因伯格：科技向善 促进算法公平**<br>人民日报海外版](writings/克莱因伯格科教人物坊.md)
 
 * 新闻编辑
 
