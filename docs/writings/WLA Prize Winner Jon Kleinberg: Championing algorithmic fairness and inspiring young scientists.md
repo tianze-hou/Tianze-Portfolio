@@ -1,6 +1,6 @@
 # WLA Prize Winner Jon Kleinberg: Championing algorithmic fairness and inspiring young scientists
 
-![Kleinberg delivers a lecture on algorithms at Fudan University. (Photo provided to People's Daily)](../photos/..photos/WLA-Prize-202410/1.png ':size=70%')
+![Kleinberg delivers a lecture on algorithms at Fudan University. (Photo provided to People's Daily)](../photos/WLA-Prize-202410/1.png ':size=70%')
 
 Kleinberg delivers a lecture on algorithms at Fudan University. (Photo provided to People's Daily)
 
@@ -8,7 +8,7 @@ Kleinberg delivers a lecture on algorithms at Fudan University. (Photo provided 
 
 Kleinberg, who teaches computer science at Cornell University in New York, emphasized that it is human biases that seep into the data, which then influence the algorithm trained on it.
 
-![A high school student stands to ask Kleinberg a question during his lecture at Fudan University. (Photo provided to People's Daily)](../photos/..photos/WLA-Prize-202410/2.png':size=70%')
+![A high school student stands to ask Kleinberg a question during his lecture at Fudan University. (Photo provided to People's Daily)](../photos/WLA-Prize-202410/2.png':size=70%')
 
 A high school student stands to ask Kleinberg a question during his lecture at Fudan University. (Photo provided to People's Daily)
 
@@ -22,7 +22,7 @@ In 1993, a lecture by astronomer and science educator Carl Sagan left a lasting 
 
 "Sagan asked us to imagine that we were alien scientists from some other planet looking at the emissions coming off the earth. What might tell that there could be real life on earth?" Kleinberg recalled. "An algorithm in a way is like this very powerful alien force. It knows nothing about the world that we live in. There's nothing about our lives except what we show it through the data. But it's very good at picking up patterns in that data." 
 
-![Kleinberg (right) answers questions from students at Fudan University. (Photo: Fudan University)](../photos/..photos/WLA-Prize-202410/3.png':size=70%')
+![Kleinberg (right) answers questions from students at Fudan University. (Photo: Fudan University)](../photos/WLA-Prize-202410/3.png':size=70%')
 
 Kleinberg (right) answers questions from students at Fudan University. (Photo: Fudan University)
 
@@ -32,7 +32,7 @@ In his third visit to China and his first to Shanghai, Kleinberg marked the occa
 
 Kleinberg's weeklong visit to Shanghai included the WLA Prize award ceremony and other academic activities, where he was often surrounded by eager young people. Impressed by their enthusiasm, he said, "I spent a wonderful week in Shanghai, meeting an amazing collection of intelligent and energetic students. So much joy interacting with them."
 
-![Jon Kleinberg is surrounded by a crowd of young people at the WLA forum.  (Photo provided to People's Daily)](../photos/..photos/WLA-Prize-202410/4.png':size=70%')
+![Jon Kleinberg is surrounded by a crowd of young people at the WLA forum.  (Photo provided to People's Daily)](../photos/WLA-Prize-202410/4.png':size=70%')
 
 Jon Kleinberg is surrounded by a crowd of young people at the WLA forum.  (Photo provided to People's Daily) 
 
@@ -42,7 +42,7 @@ He has also made major contributions to algorithm design and analysis, interdisc
 
 "His seminal research – which spans algorithms, behavioral economics, game theory, law and network science – has yielded deep conceptual understanding of the current state of information technology and has provided signposts for its future development", said Michael I. Jordan, chair of the 2024 WLA Prize selection committee, when announcing the award on September 12.
 
-![Kleinberg (second from right) receives the WLA Prize in Computer Science or Mathematics at the opening ceremony of the 2024 WLA Forum held on October 25 in Shanghai. (Photo: WLA)](../photos/..photos/WLA-Prize-202410/5.png':size=70%')
+![Kleinberg (second from right) receives the WLA Prize in Computer Science or Mathematics at the opening ceremony of the 2024 WLA Forum held on October 25 in Shanghai. (Photo: WLA)](../photos/WLA-Prize-202410/5.png':size=70%')
 
 Kleinberg (second from right) receives the WLA Prize in Computer Science or Mathematics at the opening ceremony of the 2024 WLA Forum held on October 25 in Shanghai. (Photo: WLA)
 
@@ -52,7 +52,7 @@ Born in Boston in 1971, Kleinberg grew up in a family that nurtured his diverse 
 
 As a high school student, Kleinberg had eclectic interests ranging from math to fiction writing and law. "I liked writing games my friends could play in the school library on floppy disks and things, but I somehow didn't imagine that was like a field of study, it was just a hobby you do," he recalled in a 2018 conversation with American computer scientist Eric Horvitz.
 
-![A photo of Kleinberg from his youth. (Photo: Alchetron.com)](../photos/..photos/WLA-Prize-202410/6.png':size=70%')
+![A photo of Kleinberg from his youth. (Photo: Alchetron.com)](../photos/WLA-Prize-202410/6.png':size=70%')
 
 A photo of Kleinberg from his youth. (Photo: Alchetron.com)
 
@@ -60,7 +60,7 @@ In 1993, Kleinberg graduated from Cornell with dual degrees in mathematics and c
 
 "I always personally found it interesting to learn about what's happening in other fields," Kleinberg said during his Fudan lecture. His interdisciplinary curiosity has led to collaborations with over 50 researchers, embodying "the collision of wisdom." His partnership with Harvard economist Sendhil Mullainathan began as an undergraduate course project in 1993 and has since resulted in nearly 30 academic papers.
 
-![Kleinberg is interviewed by People's Daily reporter Hou Tianze (left) at Fudan University. (Photo provided to People's Daily)](../photos/..photos/WLA-Prize-202410/7.png':size=70%')
+![Kleinberg is interviewed by People's Daily reporter Hou Tianze (left) at Fudan University. (Photo provided to People's Daily)](../photos/WLA-Prize-202410/7.png':size=70%')
 
 Kleinberg is interviewed by People's Daily reporter Hou Tianze (left) at Fudan University. (Photo provided to People's Daily)
 
@@ -72,7 +72,7 @@ While many were still enchanted by the promise of algorithms, Kleinberg was alre
 
 Wu noted that he was ahead of the curve. "Issues of fairness became a subject of research around 2018 or 2019 after several scandals and negative reports surfaced. Many people started researching it then, but Kleinberg had already delved into it four or five years prior," Wu said.
 
-![People's Daily reporter Hou Tianze asks Kleinberg to sign a copy of his textbook Algorithm Design. (Photo provided to People's Daily)](../photos/..photos/WLA-Prize-202410/8.png':size=70%')
+![People's Daily reporter Hou Tianze asks Kleinberg to sign a copy of his textbook Algorithm Design. (Photo provided to People's Daily)](../photos/WLA-Prize-202410/8.png':size=70%')
 
 People's Daily reporter Hou Tianze asks Kleinberg to sign a copy of his textbook Algorithm Design. (Photo provided to People's Daily)
 
@@ -84,7 +84,7 @@ At Shanghai Master Forum on Science, Kleinberg reiterated the importance of coll
  
 Kleinberg's students at Cornell affectionately call him "Rebel King," an anagram of his last name. On professor evaluation websites, his courses often inspire comments such as "Long live the Rebel King." During the final weeks of Kleinberg's algorithm course, a student theatrically rushed to the podium to declare, "Kleinberg is still the Rebel King," before darting out to applause. Kleinberg continued his lecture.
 
-![Kleinberg teaches a class from his course on networks. (Photo: Cornell University)](../photos/..photos/WLA-Prize-202410/9.png':size=70%')
+![Kleinberg teaches a class from his course on networks. (Photo: Cornell University)](../photos/WLA-Prize-202410/9.png':size=70%')
 
 Kleinberg teaches a class from his course on networks. (Photo: Cornell University)
 
@@ -92,7 +92,7 @@ With 27 years of teaching, Kleinberg has not only earned a reputation as a leadi
 
 One of his distinctive teaching practices is his preference for traditional blackboards over PowerPoint slides. Kleinberg and his wife Lee often fill multiple blackboards during a lecture, using a special noiseless chalk. Wu believes this "old-fashioned" method is more engaging and responsive to students' feedback than static slides.
 
-![Kleinberg stands in front of a blackboard. (Photo: societyforscience.org)](../photos/..photos/WLA-Prize-202410/10.png':size=70%')
+![Kleinberg stands in front of a blackboard. (Photo: societyforscience.org)](../photos/WLA-Prize-202410/10.png':size=70%')
 
 Kleinberg stands in front of a blackboard. (Photo: societyforscience.org)
 
@@ -100,7 +100,7 @@ Despite his reputation as a "Rebel King," Kleinberg is also known as the "Cornel
 
 He treats every student equally, never dismissing ideas outright. Instead, he offers gentle guidance, saying "OK, I have another idea for your reference." He replies to every student's email without delay and meticulously revises draft papers with detailed notes, always ending with: "If you think my edits are incorrect, feel free to revert them."
 
-![Kleinberg (center) stands next to his doctoral student Wu Shaomei (right) as she graduates from Cornell in 2012. (Photo provided to People's Daily)](../photos/..photos/WLA-Prize-202410/11.png':size=70%')
+![Kleinberg (center) stands next to his doctoral student Wu Shaomei (right) as she graduates from Cornell in 2012. (Photo provided to People's Daily)](../photos/WLA-Prize-202410/11.png':size=70%')
 
 Kleinberg (center) stands next to his doctoral student Wu Shaomei (right) as she graduates from Cornell in 2012. (Photo provided to People's Daily)
 
