@@ -1,5 +1,7 @@
 # WLA Prize Winner Jon Kleinberg: Championing algorithmic fairness and inspiring young scientists
 
+>  By Hou Tianze and Wu Jing, [People's Daily app](https://peoplesdaily.pdnews.cn/china/er/30047141325), 15:15, Oct 28, 2024
+
 ![Kleinberg delivers a lecture on algorithms at Fudan University. (Photo provided to People's Daily)](../photos/WLA-Prize-202410/1.png ':size=70%')
 
 Kleinberg delivers a lecture on algorithms at Fudan University. (Photo provided to People's Daily)
