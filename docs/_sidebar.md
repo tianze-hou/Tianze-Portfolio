@@ -32,7 +32,7 @@
     * [**流量时代，中国文旅的2023**](https://tianze-hou.github.io/CNTourismDataViz2023/)
 
 * 视频作品
- 
+    * [**CCTV科教频道《顶尖科学》：科学探索者**](videos/CCTV科教频道《顶尖科学》：科学探索者)
     * [**青山在**<br>&nbsp;&nbsp;&nbsp;&nbsp;（广东省大学生暑期“三下乡”优秀团队）](videos/青山在)
     * [**指掌乾坤**<br>&nbsp;&nbsp;&nbsp;&nbsp;（中山大学校园短片大赛纪录片二等奖）](videos/指掌乾坤)
     * [**志愿者老尚的周末**](videos/志愿者老尚的周末)
