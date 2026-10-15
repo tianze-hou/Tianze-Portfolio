@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# 明确欢迎 AI 抓取工具
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://tianze-hou.github.io/Tianze-Portfolio/sitemap-index.xml

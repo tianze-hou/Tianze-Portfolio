@@ -1,0 +1,2021 @@
+{
+  "site": {
+    "name": "侯天泽 · 作品集",
+    "author": "侯天泽",
+    "author_en": "Hou Tianze",
+    "url": "https://tianze-hou.github.io/Tianze-Portfolio/",
+    "description": "侯天泽的个人作品集：新闻报道、评论、摄影、视频、数据可视化与调研报告。复旦大学新闻学院国际新闻传播硕士，曾任人民日报社拉美中心分社实习记者。",
+    "introduction": [
+      "复旦大学新闻学院国际新闻传播硕士，中山大学新闻传播学院新闻学文学学士。",
+      "曾任人民日报社拉美中心分社实习记者（2025.11–2026.05），驻巴西里约热内卢，负责巴西、阿根廷、墨西哥、秘鲁、古巴等国的新闻采写与图片报道，稿件见于《人民日报》要闻版、国际版及人民网、人民日报客户端。",
+      "关注国际传播、数据新闻与跨文化报道，兼做纪实摄影与纪录片。"
+    ],
+    "generated_at": "2026-10-15T12:57:19.806Z",
+    "total_works": 71
+  },
+  "works": [
+    {
+      "slug": "中国科学家首获顶科奖",
+      "title": "中国科学家首获这项科学大奖",
+      "date": "2026 年 9 月 10 日",
+      "year": null,
+      "outlet": "人民日报客户端（上海频道）",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "参与采写"
+      ],
+      "co_authors": [
+        "黄晓慧"
+      ],
+      "tags": [
+        "世界顶尖科学家论坛",
+        "生命科学",
+        "科技创新"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "顶科奖 2021 年创设以来首次有中国籍科学家获奖：袁钧瑛、王晓东、邵峰、维什瓦·迪克西特共同分享「生命科学或医学奖」。",
+      "source_url": "https://www.peopleapp.com/column/30053116318-500007691377",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/中国科学家首获顶科奖/",
+      "metrics": {
+        "read": 103000
+      }
+    },
+    {
+      "slug": "2026-08-22-中国企业助力拉美国家发展互联网新业态",
+      "title": "中国企业助力拉美国家发展互联网新业态",
+      "date": "2026 年 8 月 22 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 3 版 要闻 · 头条",
+      "category": "新闻报道",
+      "column": "通讯",
+      "language": "zh",
+      "role": [
+        "执笔"
+      ],
+      "co_authors": [],
+      "tags": [
+        "中企出海",
+        "数字经济"
+      ],
+      "region": [
+        "巴西",
+        "拉美"
+      ],
+      "summary": "离任后发稿，版面头条，由本人执笔。",
+      "source_url": "https://www.peopleapp.com/column/30052984790-500007662134",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-08-22-中国企业助力拉美国家发展互联网新业态/",
+      "metrics": {
+        "read": 254090,
+        "inter": 21
+      }
+    },
+    {
+      "slug": "2026-08-03-秘鲁探索森林可持续治理新模式",
+      "title": "秘鲁探索森林可持续治理新模式",
+      "date": "2026 年 8 月 3 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 15 版 国际",
+      "category": "新闻报道",
+      "column": "国际视点",
+      "language": "zh",
+      "role": [
+        "执笔"
+      ],
+      "co_authors": [],
+      "tags": [
+        "环境治理",
+        "森林保护"
+      ],
+      "region": [
+        "秘鲁"
+      ],
+      "summary": "离任后发稿，由本人执笔。",
+      "source_url": "https://www.peopleapp.com/column/30052829034-500007630798",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-08-03-秘鲁探索森林可持续治理新模式/",
+      "metrics": {
+        "read": 57250
+      }
+    },
+    {
+      "slug": "2026-06-18-是一场比赛-更是一座真正的桥梁",
+      "title": "是一场比赛，更是一座真正的桥梁（环球热点）",
+      "date": "2026 年 6 月 18 日",
+      "year": null,
+      "outlet": "人民日报海外版",
+      "edition": "第 6 版 国际观察 · 头条",
+      "category": "新闻报道",
+      "column": "环球热点",
+      "language": "zh",
+      "role": [
+        "采访",
+        "执笔（相当部分）"
+      ],
+      "co_authors": [],
+      "tags": [
+        "体育交流",
+        "环球热点"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": "离任后发稿，里约电署名；海外版头条、半版篇幅。",
+      "source_url": "http://sc.people.com.cn/n2/2026/0618/c345167-41614289.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-06-18-是一场比赛-更是一座真正的桥梁/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-05-18-汉语桥巴西赛区决赛",
+      "title": "2026年“汉语桥”巴西赛区决赛在里约热内卢举行",
+      "date": "2026 年 5 月 18 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "中文教育"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0518/c1002-40722220.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-05-18-汉语桥巴西赛区决赛/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-05-18-持续打造更有看头的博物馆",
+      "title": "持续打造更有看头的博物馆（国际视点）",
+      "date": "2026 年 5 月 18 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 15 版 国际 · 头条",
+      "category": "新闻报道",
+      "column": "国际视点",
+      "language": "zh",
+      "role": [
+        "选题",
+        "葡西双语采访",
+        "执笔",
+        "摄影"
+      ],
+      "co_authors": [],
+      "tags": [
+        "文化遗产",
+        "博物馆",
+        "多语种采访"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": "国际视点·头条，巴西部分由本人选题、葡西双语采访、执笔并拍摄，编辑一字未改。",
+      "source_url": "https://world.people.com.cn/n1/2026/0518/c1002-40721472.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-05-18-持续打造更有看头的博物馆/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-05-15-巴西中国图书中心落户",
+      "title": "巴西中国图书中心落户里约热内卢联邦大学",
+      "date": "2026 年 5 月 15 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "中文教育",
+        "人文交流"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0515/c1002-40720488.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-05-15-巴西中国图书中心落户/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-05-11-十五五-中国式现代化将继续行稳致远",
+      "title": "“十五五”，中国式现代化将继续行稳致远（海外名家话中国）",
+      "date": "2026 年 5 月 11 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 17 版 国际 · 整版",
+      "category": "新闻报道",
+      "column": "海外名家话中国",
+      "language": "zh",
+      "role": [
+        "联络策划",
+        "参与采写",
+        "执笔（巴西部分）"
+      ],
+      "co_authors": [],
+      "tags": [
+        "中国式现代化",
+        "海外名家"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": "「海外名家话中国」整版，本人联络策划巴西部分采访并执笔。",
+      "source_url": "https://world.people.com.cn/n1/2026/0511/c1002-40717027.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-05-11-十五五-中国式现代化将继续行稳致远/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-04-28-援圭医疗队首例麻醉深度监测",
+      "title": "援圭中国医疗队成功实施圭亚那首例术中麻醉深度监测",
+      "date": "2026 年 4 月 28 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "援外医疗"
+      ],
+      "region": [
+        "圭亚那"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0428/c1002-40710478.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-04-28-援圭医疗队首例麻醉深度监测/",
+      "metrics": null
+    },
+    {
+      "slug": "china-continue-strong-impetus-world-economic-growth",
+      "title": "China will continue to provide strong impetus for world economic growth: Cuban scholar",
+      "date": "2026 年 4 月 28 日",
+      "year": null,
+      "outlet": "人民日报英文客户端",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "人物专访",
+      "language": "en",
+      "role": [
+        "撰文"
+      ],
+      "co_authors": [],
+      "tags": [
+        "中国经济",
+        "人物专访",
+        "古巴"
+      ],
+      "region": [
+        "古巴"
+      ],
+      "summary": "An interview with a Cuban scholar on China's role in global economic growth.",
+      "source_url": "https://peoplesdaily.pdnews.cn/china/er/30052017753",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/china-continue-strong-impetus-world-economic-growth/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-04-20-追索流失文物-坚守历史正义",
+      "title": "追索流失文物 坚守历史正义（国际视点）",
+      "date": "2026 年 4 月 20 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 15 版 国际 · 头条",
+      "category": "新闻报道",
+      "column": "国际视点",
+      "language": "zh",
+      "role": [
+        "执笔（墨西哥部分）"
+      ],
+      "co_authors": [],
+      "tags": [
+        "文化遗产",
+        "文物追索"
+      ],
+      "region": [
+        "墨西哥"
+      ],
+      "summary": "国际视点·头条，追索流失文物的历史正义，墨西哥部分由本人执笔。",
+      "source_url": "https://world.people.com.cn/n1/2026/0420/c1002-40704313.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-04-20-追索流失文物-坚守历史正义/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-04-17-里约孔院国际中文日",
+      "title": "巴西里约天主教大学孔院庆祝2026年“国际中文日”",
+      "date": "2026 年 4 月 17 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "中文教育"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0417/c1002-40703343.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-04-17-里约孔院国际中文日/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-04-11-推动人工智能发展与创新的关键力量",
+      "title": "“推动人工智能发展与创新的关键力量”（外媒看中国）",
+      "date": "2026 年 4 月 11 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 3 版 要闻 · 头条",
+      "category": "新闻报道",
+      "column": "外媒看中国",
+      "language": "zh",
+      "role": [
+        "执笔（巴西部分）"
+      ],
+      "co_authors": [],
+      "tags": [
+        "人工智能",
+        "外媒看中国"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": "外媒看中国·头条，聚焦人工智能发展与创新的关键力量，巴西部分由本人执笔。",
+      "source_url": "https://world.people.com.cn/n1/2026/0411/c1002-40699209.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-04-11-推动人工智能发展与创新的关键力量/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-04-07-里约社区芭蕾舞学校中文阅读活动",
+      "title": "巴西里约热内卢社区芭蕾舞学校开展中文阅读活动",
+      "date": "2026 年 4 月 7 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "图片报道",
+      "language": "zh",
+      "role": [
+        "摄影"
+      ],
+      "co_authors": [],
+      "tags": [
+        "中文教育",
+        "人文交流"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0407/c1002-40696357.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-04-07-里约社区芭蕾舞学校中文阅读活动/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-04-03-访古巴学者费尔南德斯",
+      "title": "“继续为世界经济增长提供强劲动力”——访古巴哈瓦那大学国际经济研究中心资深研究员费尔南德斯",
+      "date": "2026 年 4 月 3 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 3 版 要闻",
+      "category": "新闻报道",
+      "column": "人物专访",
+      "language": "zh",
+      "role": [
+        "策划",
+        "联络",
+        "采访执行"
+      ],
+      "co_authors": [],
+      "tags": [
+        "国际经济",
+        "人物专访"
+      ],
+      "region": [
+        "古巴"
+      ],
+      "summary": "专访古巴哈瓦那大学国际经济研究中心资深研究员费尔南德斯。",
+      "source_url": "https://www.peopleapp.com/rmharticle/30051800812",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-04-03-访古巴学者费尔南德斯/",
+      "metrics": {
+        "read": 29462,
+        "inter": 50
+      }
+    },
+    {
+      "slug": "2026-04-03-图片报道世界儿童图书日",
+      "title": "图片报道（世界儿童图书日）",
+      "date": "2026 年 4 月 3 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 15 版 国际",
+      "category": "新闻报道",
+      "column": "图片报道",
+      "language": "zh",
+      "role": [
+        "摄影"
+      ],
+      "co_authors": [],
+      "tags": [
+        "图片报道"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": "世界儿童图书日图片报道，其中一张为本人拍摄。",
+      "source_url": "https://www.peopleapp.com/column/30051799950-500007425188",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-04-03-图片报道世界儿童图书日/",
+      "metrics": {
+        "read": 80270,
+        "inter": 4
+      }
+    },
+    {
+      "slug": "2026-03-17-巴西中国新时代论坛",
+      "title": "“巴西—中国新时代论坛”在巴西里约热内卢举行",
+      "date": "2026 年 3 月 17 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "国际论坛",
+        "中巴关系"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0317/c1002-40683623.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-03-17-巴西中国新时代论坛/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-03-10-援圭医疗队国际肝胆胰研讨会报告",
+      "title": "第21批援圭亚那中国医疗队在国际肝胆胰研讨会上作专题报告",
+      "date": "2026 年 3 月 10 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "援外医疗",
+        "国际论坛"
+      ],
+      "region": [
+        "圭亚那"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0310/c1002-40679053.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-03-10-援圭医疗队国际肝胆胰研讨会报告/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-03-03-国际人士看中国乡村全面振兴",
+      "title": "中国乡村发展“底子”更厚“路子”更宽（国际人士看中国乡村全面振兴）",
+      "date": "2026 年 3 月 3 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 4 版 要闻 · 头条",
+      "category": "新闻报道",
+      "column": "通讯",
+      "language": "zh",
+      "role": [
+        "选题策划",
+        "联络采访",
+        "执笔（巴西部分）"
+      ],
+      "co_authors": [],
+      "tags": [
+        "乡村振兴",
+        "外媒看中国"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": "「国际人士看中国乡村全面振兴」专栏头条，选题策划与采访方向由本人负责。获中国政府网转载。",
+      "source_url": "https://www.peopleapp.com/column/30051540519-500007374469",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-03-03-国际人士看中国乡村全面振兴/",
+      "metrics": {
+        "read": 800024,
+        "inter": 1664
+      }
+    },
+    {
+      "slug": "2026-02-27-里约2026年新春演出",
+      "title": "巴西里约热内卢举行2026年新春演出活动",
+      "date": "2026 年 2 月 27 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "人文交流"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0227/c1002-40671452.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-02-27-里约2026年新春演出/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-02-25-外国媒体热议中国春节经济",
+      "title": "“稳定健康、不断进步的中国经济值得看好”​​——外国媒体和国际人士热议中国春节经济",
+      "date": "2026 年 2 月 25 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 3 版 要闻 · 头条",
+      "category": "新闻报道",
+      "column": "外媒看中国",
+      "language": "zh",
+      "role": [
+        "执笔（巴西部分）"
+      ],
+      "co_authors": [],
+      "tags": [
+        "人文交流",
+        "中国经济",
+        "春节经济",
+        "外媒看中国"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": "外国媒体和国际人士热议中国春节经济，巴西部分由本人执笔。",
+      "source_url": "https://www.peopleapp.com/column/30051493678-500007364740",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-02-25-外国媒体热议中国春节经济/",
+      "metrics": {
+        "read": 637414,
+        "inter": 262
+      }
+    },
+    {
+      "slug": "2026-01-27-国际舆论看好中国经济发展前景",
+      "title": "为全球经济增长带来更多动力——国际舆论看好中国经济发展前景",
+      "date": "2026 年 1 月 27 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 3 版 要闻 · 头条",
+      "category": "新闻报道",
+      "column": "外媒看中国",
+      "language": "zh",
+      "role": [
+        "执笔（巴西部分）"
+      ],
+      "co_authors": [],
+      "tags": [
+        "中国经济",
+        "外媒看中国"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": "国际舆论看好中国经济发展前景，巴西部分由本人执笔。",
+      "source_url": "https://www.peopleapp.com/column/30051307024-500007326742",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-01-27-国际舆论看好中国经济发展前景/",
+      "metrics": {
+        "read": 313887,
+        "inter": 38
+      }
+    },
+    {
+      "slug": "2026-01-24-卢拉宣布对华免签",
+      "title": "巴西总统卢拉宣布将对中国公民实施免签政策",
+      "date": "2026 年 1 月 24 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "地缘政治",
+        "中巴关系"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0124/c1002-40651960.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-01-24-卢拉宣布对华免签/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-01-24-跨越重洋的友谊之舟",
+      "title": "跨越重洋的友谊之舟",
+      "date": "2026 年 1 月 24 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 3 版 要闻 · 头条",
+      "category": "新闻报道",
+      "column": "通讯",
+      "language": "zh",
+      "role": [
+        "全程参与采编",
+        "执笔初稿",
+        "新媒体制作"
+      ],
+      "co_authors": [],
+      "tags": [
+        "军事外交",
+        "援外医疗",
+        "中巴关系"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": "中国海军「丝路方舟」号医院船访问巴西始末。本人是「最后一个下船的非随船记者」。",
+      "source_url": "https://www.peopleapp.com/column/30051290073-500007322764",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-01-24-跨越重洋的友谊之舟/",
+      "metrics": {
+        "read": 480826,
+        "inter": 641
+      }
+    },
+    {
+      "slug": "2026-01-21-中国经济将继续是全球经济增长最大引擎",
+      "title": "中国经济将继续是全球经济增长最大引擎（权威论坛）",
+      "date": "2026 年 1 月 21 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 17 版 国际 · 整版",
+      "category": "新闻报道",
+      "column": "权威论坛",
+      "language": "zh",
+      "role": [
+        "策划并执行采访",
+        "执笔（拉美部分）"
+      ],
+      "co_authors": [],
+      "tags": [
+        "国际论坛",
+        "中国经济",
+        "权威论坛"
+      ],
+      "region": [
+        "巴西",
+        "拉美"
+      ],
+      "summary": "权威论坛整版，巴西专家夏华声（瓦加斯基金会经济学家）的采访由本人全程策划、约访、执行。",
+      "source_url": "https://www.peopleapp.com/column/30051264047-500007317148",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-01-21-中国经济将继续是全球经济增长最大引擎/",
+      "metrics": {
+        "read": 505247,
+        "inter": 842
+      }
+    },
+    {
+      "slug": "2026-01-20-援圭医疗队完成首例颈椎手术",
+      "title": "援圭中国医疗队成功实施圭亚那首例高难度颈椎手术",
+      "date": "2026 年 1 月 20 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "援外医疗"
+      ],
+      "region": [
+        "圭亚那"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0120/c1002-40649175.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-01-20-援圭医疗队完成首例颈椎手术/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-01-15-中巴科技小院助力家庭农业",
+      "title": "“中巴科技小院”助力巴西家庭农业机械化",
+      "date": "2026 年 1 月 15 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "科技创新",
+        "农业合作"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0115/c1002-40645917.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-01-15-中巴科技小院助力家庭农业/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-01-15-奇迹工程文化公益项目第二期启动",
+      "title": "中企资助的“奇迹工程”文化公益项目第二期在巴西里约启动",
+      "date": "2026 年 1 月 15 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "人文交流",
+        "公益"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0115/c1002-40646101.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-01-15-奇迹工程文化公益项目第二期启动/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-01-13-丝路方舟号军侨春节联欢会",
+      "title": "“丝路方舟”号医院船与巴西华侨华人举办“军侨春节联欢会”",
+      "date": "2026 年 1 月 13 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "援外医疗",
+        "华侨华人",
+        "人文交流"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0113/c1002-40644473.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-01-13-丝路方舟号军侨春节联欢会/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-01-12-科技小院从中国创新走向全球推广",
+      "title": "培养本土技术人才 赋能农业生产变革——科技小院，从中国创新走向全球推广",
+      "date": "2026 年 1 月 12 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 17 版 国际 · 整版",
+      "category": "新闻报道",
+      "column": "整版专题",
+      "language": "zh",
+      "role": [
+        "参与采编全流程",
+        "执笔（巴西部分）"
+      ],
+      "co_authors": [],
+      "tags": [
+        "科技创新",
+        "农业合作",
+        "乡村振兴"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": "科技小院从中国创新走向全球推广，巴西部分记录中巴家庭农业机械化合作。获央视网全文转载。",
+      "source_url": "https://www.peopleapp.com/column/30051191555-500007302256",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-01-12-科技小院从中国创新走向全球推广/",
+      "metrics": {
+        "read": 397554,
+        "inter": 33
+      }
+    },
+    {
+      "slug": "2026-01-11-丝路方舟号医院船访问巴西",
+      "title": "中国海军“丝路方舟”号医院船访问巴西",
+      "date": "2026 年 1 月 11 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写",
+        "摄影"
+      ],
+      "co_authors": [],
+      "tags": [
+        "援外医疗",
+        "军事外交"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2026/0111/c1002-40642965.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-01-11-丝路方舟号医院船访问巴西/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-01-05-中国海油深水油田项目投产",
+      "title": "中国海油参建全球最大深水油田新一期项目投产",
+      "date": "2026 年 1 月 5 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "能源合作",
+        "中企出海",
+        "能源"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "http://world.people.com.cn/n1/2026/0105/c1002-40639248.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-01-05-中国海油深水油田项目投产/",
+      "metrics": null
+    },
+    {
+      "slug": "2026-01-03-卢拉谴责美对委军事打击",
+      "title": "巴西总统卢拉强烈谴责美国对委内瑞拉实施军事打击",
+      "date": "2026 年 1 月 3 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "地缘政治"
+      ],
+      "region": [
+        "委内瑞拉"
+      ],
+      "summary": null,
+      "source_url": "https://www.peopleapp.com/column/30051129561-500007289306",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-01-03-卢拉谴责美对委军事打击/",
+      "metrics": {
+        "read": 456826,
+        "inter": 151
+      }
+    },
+    {
+      "slug": "丝路方舟号开到巴西来",
+      "title": "「丝路方舟」号开到巴西来",
+      "date": null,
+      "year": 2026,
+      "outlet": "人民日报国际（微信公众号）",
+      "edition": null,
+      "category": "融媒体",
+      "column": "短视频",
+      "language": "zh",
+      "role": [
+        "拍摄",
+        "制作"
+      ],
+      "co_authors": [],
+      "tags": [
+        "军事外交",
+        "援外医疗",
+        "短视频"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": "「人民日报国际」公众号视频作品，记录「丝路方舟」号医院船访问巴西。",
+      "source_url": "https://mp.weixin.qq.com/s/YjXZU671FeDoMklhKBRAEg",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/丝路方舟号开到巴西来/",
+      "metrics": null
+    },
+    {
+      "slug": "2025-12-27-牡丹传情共迎新年文化活动",
+      "title": "“牡丹传情·共迎新年”文化交流活动在巴西哥伦布市举行",
+      "date": "2025 年 12 月 27 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "人文交流"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "http://world-app.people.cn/n1/2025/1227/c1002-40633580.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-27-牡丹传情共迎新年文化活动/",
+      "metrics": null
+    },
+    {
+      "slug": "2025-12-22-巴西和统会向贫困社区捐赠物资",
+      "title": "巴西和统会向里约热内卢州尼泰罗伊市贫困社区捐赠物资",
+      "date": "2025 年 12 月 22 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "华侨华人",
+        "公益"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2025/1222/c1002-40629475.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-22-巴西和统会向贫困社区捐赠物资/",
+      "metrics": null
+    },
+    {
+      "slug": "2025-12-17-共同谱写构建中拉命运共同体新篇章",
+      "title": "共同谱写构建中拉命运共同体新篇章——拉美各界积极评价第三份〈中国对拉丁美洲和加勒比政策文件〉",
+      "date": "2025 年 12 月 17 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 3 版 要闻 · 倒头条",
+      "category": "新闻报道",
+      "column": "要闻短讯",
+      "language": "zh",
+      "role": [
+        "执笔（巴西部分）",
+        "参与编辑"
+      ],
+      "co_authors": [],
+      "tags": [
+        "中巴关系",
+        "拉美外交",
+        "公共政策"
+      ],
+      "region": [
+        "巴西",
+        "拉美"
+      ],
+      "summary": "第三份《中国对拉丁美洲和加勒比政策文件》发布后，拉美各界的积极评价。",
+      "source_url": "https://www.peopleapp.com/column/30050998470-500007259912",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-17-共同谱写构建中拉命运共同体新篇章/",
+      "metrics": {
+        "read": 210373,
+        "inter": 226
+      }
+    },
+    {
+      "slug": "2025-12-16-中国继续成为全球增长的重要引擎",
+      "title": "中国继续成为全球增长的重要引擎",
+      "date": "2025 年 12 月 16 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 3 版 要闻 · 头条",
+      "category": "新闻报道",
+      "column": "外媒看中国",
+      "language": "zh",
+      "role": [
+        "执笔（巴西部分）"
+      ],
+      "co_authors": [],
+      "tags": [
+        "中国经济",
+        "外媒看中国"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": "国际舆论关注中国在全球增长中的引擎作用，巴西部分由中国学者与媒体观点构成。",
+      "source_url": "https://www.peopleapp.com/column/30050990021-500007258181",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-16-中国继续成为全球增长的重要引擎/",
+      "metrics": {
+        "read": 351385,
+        "inter": 144
+      }
+    },
+    {
+      "slug": "2025-12-15-第六届里约华侨华人捐助活动",
+      "title": "第六届巴西里约华侨华人捐助活动在里约成功举办",
+      "date": "2025 年 12 月 15 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "华侨华人"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2025/1215/c1002-40624590.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-15-第六届里约华侨华人捐助活动/",
+      "metrics": null
+    },
+    {
+      "slug": "2025-12-14-中国巴西科技创新中心正式启动",
+      "title": "中国—巴西科技创新中心正式启动",
+      "date": "2025 年 12 月 14 日",
+      "year": null,
+      "outlet": "人民日报",
+      "edition": "第 3 版 要闻",
+      "category": "新闻报道",
+      "column": "要闻短讯",
+      "language": "zh",
+      "role": [
+        "采访",
+        "执笔"
+      ],
+      "co_authors": [
+        "陈一鸣"
+      ],
+      "tags": [
+        "科技创新",
+        "中巴关系"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": "中国—巴西科技创新中心正式启动，中巴科技合作迈入机制化阶段。",
+      "source_url": "https://www.peopleapp.com/column/30050976916-500007255360",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-14-中国巴西科技创新中心正式启动/",
+      "metrics": {
+        "read": 142767,
+        "inter": 3
+      }
+    },
+    {
+      "slug": "2025-12-11-里约天主教大学孔院十四周年",
+      "title": "巴西里约天主教大学孔院举办揭牌十四周年庆典暨新书发布会",
+      "date": "2025 年 12 月 11 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "中文教育"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2025/1211/c1002-40622279.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-11-里约天主教大学孔院十四周年/",
+      "metrics": null
+    },
+    {
+      "slug": "2025-12-11-中巴科技创新中心落户里约联邦大学",
+      "title": "中巴科技创新中心落户巴西里约联邦大学",
+      "date": "2025 年 12 月 11 日",
+      "year": null,
+      "outlet": "人民日报海外版",
+      "edition": "第 6 版 国际观察",
+      "category": "新闻报道",
+      "column": "国际观察",
+      "language": "zh",
+      "role": [
+        "选题",
+        "采访",
+        "执笔"
+      ],
+      "co_authors": [],
+      "tags": [
+        "科技创新"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://paper.people.com.cn/rmrbhwb/pc/content/202512/11/content_30119661.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-11-中巴科技创新中心落户里约联邦大学/",
+      "metrics": null
+    },
+    {
+      "slug": "2025-12-11-驻里约总领馆媒体对话会",
+      "title": "中国驻里约总领馆举办“中国之治与中巴合作”媒体对话会",
+      "date": "2025 年 12 月 11 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "国际论坛",
+        "公共外交"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "https://world.people.com.cn/n1/2025/1211/c1002-40622368.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-11-驻里约总领馆媒体对话会/",
+      "metrics": null
+    },
+    {
+      "slug": "2025-12-10-中巴科技创新中心落户里约联邦大学",
+      "title": "中巴科技创新中心落户巴西里约联邦大学科技园",
+      "date": "2025 年 12 月 10 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "科技创新"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "http://world-app.people.cn/n1/2025/1210/c1002-40621531.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-10-中巴科技创新中心落户里约联邦大学/",
+      "metrics": null
+    },
+    {
+      "slug": "2025-12-04-中企哥伦比亚光伏项目并网",
+      "title": "中企在哥伦比亚首个绿地光伏项目实现全容量并网发电",
+      "date": "2025 年 12 月 4 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "能源合作",
+        "中企出海",
+        "新能源"
+      ],
+      "region": [
+        "哥伦比亚"
+      ],
+      "summary": null,
+      "source_url": "http://world.people.com.cn/n1/2025/1204/c1002-40617534.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-04-中企哥伦比亚光伏项目并网/",
+      "metrics": null
+    },
+    {
+      "slug": "2025-12-01-中巴羽毛球友谊赛",
+      "title": "2025中巴羽毛球友谊赛在巴西里约举行",
+      "date": "2025 年 12 月 1 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "体育交流"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "http://world.people.com.cn/n1/2025/1201/c1002-40615112.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-01-中巴羽毛球友谊赛/",
+      "metrics": null
+    },
+    {
+      "slug": "2025-11-27-巴西引入美团外卖品牌",
+      "title": "巴西第一大城市引入美团旗下外卖品牌",
+      "date": "2025 年 11 月 27 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "中企出海",
+        "数字经济"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "http://world.people.com.cn/n1/2025/1127/c1002-40612930.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-11-27-巴西引入美团外卖品牌/",
+      "metrics": null
+    },
+    {
+      "slug": "2025-11-27-援圭医疗队助力糖尿病防治",
+      "title": "援圭亚那中国医疗队助力当地糖尿病防治",
+      "date": "2025 年 11 月 27 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "援外医疗"
+      ],
+      "region": [
+        "圭亚那"
+      ],
+      "summary": null,
+      "source_url": "http://world.people.com.cn/n1/2025/1127/c1002-40612924.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-11-27-援圭医疗队助力糖尿病防治/",
+      "metrics": null
+    },
+    {
+      "slug": "2025-11-24-巴西红棉学堂在里约揭牌",
+      "title": "“巴西红棉学堂”在里约热内卢举行揭牌暨开班仪式",
+      "date": "2025 年 11 月 24 日",
+      "year": null,
+      "outlet": "人民网",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "采写"
+      ],
+      "co_authors": [],
+      "tags": [
+        "中文教育"
+      ],
+      "region": [
+        "巴西"
+      ],
+      "summary": null,
+      "source_url": "http://world.people.com.cn/n1/2025/1124/c1002-40610400.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2025-11-24-巴西红棉学堂在里约揭牌/",
+      "metrics": null
+    },
+    {
+      "slug": "the-american-reporter-who-revealed-nanjing-and-rediscovered-china",
+      "title": "The American reporter who revealed Nanjing and rediscovered China",
+      "date": "2025 年 9 月 24 日",
+      "year": null,
+      "outlet": "City News Service",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "深度报道",
+      "language": "en",
+      "role": [
+        "撰稿"
+      ],
+      "co_authors": [],
+      "tags": [
+        "新闻史",
+        "南京大屠杀",
+        "人物",
+        "中美关系"
+      ],
+      "region": [
+        "中国",
+        "美国"
+      ],
+      "summary": "以七个「Day」重构《纽约时报》记者都丁（Frank Tillman Durdin）与中国的七十年——1937 年南京沦陷时留守城内的五名美国记者之一，1971 年重返新中国。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/the-american-reporter-who-revealed-nanjing-and-rediscovered-china/",
+      "metrics": null
+    },
+    {
+      "slug": "cctv-顶尖科学-科学探索者",
+      "title": "CCTV 科教频道《顶尖科学》：科学探索者",
+      "date": "2025 年 1 月 11 日",
+      "year": null,
+      "outlet": "中央广播电视总台 科教频道",
+      "edition": null,
+      "category": "视频",
+      "column": "纪录片",
+      "language": "zh",
+      "role": [
+        "编导助理"
+      ],
+      "co_authors": [],
+      "tags": [
+        "科学传播",
+        "电视专题片",
+        "世界顶尖科学家论坛"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "在 2024 世界顶尖科学家论坛采访期间被央视科教频道《顶尖科学》摄制组临时邀请，作为编导助理参与专题片制作。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/cctv-顶尖科学-科学探索者/",
+      "metrics": null
+    },
+    {
+      "slug": "克莱因伯格科教人物坊",
+      "title": "克莱因伯格：科技向善 促进算法公平",
+      "date": "2024 年 11 月 4 日",
+      "year": null,
+      "outlet": "人民日报海外版",
+      "edition": "第 9 版 科教人物坊",
+      "category": "新闻报道",
+      "column": "人物专访",
+      "language": "zh",
+      "role": [
+        "参与采写"
+      ],
+      "co_authors": [
+        "王其馨",
+        "卢天姿",
+        "丁超逸",
+        "伍静"
+      ],
+      "tags": [
+        "人工智能",
+        "算法公平",
+        "科技人物",
+        "世界顶尖科学家论坛"
+      ],
+      "region": [
+        "中国",
+        "美国"
+      ],
+      "summary": "2024 世界顶尖科学家协会奖「智能科学或数学奖」获得者乔恩·克莱因伯格：算法本身不会产生偏见，所有偏见都源于人类自身。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/克莱因伯格科教人物坊/",
+      "metrics": null
+    },
+    {
+      "slug": "dajiangdong-顶科协奖含金量",
+      "title": "大江东｜全球影响力持续扩大，顶科协奖含金量何止千万",
+      "date": "2024 年 10 月 30 日",
+      "year": null,
+      "outlet": "人民日报客户端（大江东工作室）",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "人物专访",
+      "language": "zh",
+      "role": [
+        "参与采写"
+      ],
+      "co_authors": [
+        "王其馨",
+        "卢天姿",
+        "丁超逸"
+      ],
+      "tags": [
+        "世界顶尖科学家论坛",
+        "科技创新",
+        "科学传播"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "人民日报中央厨房大江东工作室 × 复旦大学新闻学院融媒体项目。",
+      "source_url": "https://www.peopleapp.com/column/30047175439-500005877898",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-顶科协奖含金量/",
+      "metrics": null
+    },
+    {
+      "slug": "wla-prize-202410",
+      "title": "WLA Prize Winner Jon Kleinberg: Championing algorithmic fairness and inspiring young scientists",
+      "date": "2024 年 10 月 28 日",
+      "year": null,
+      "outlet": "人民日报英文客户端",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "人物专访",
+      "language": "en",
+      "role": [
+        "撰文"
+      ],
+      "co_authors": [
+        "Wu Jing"
+      ],
+      "tags": [
+        "人工智能",
+        "算法公平",
+        "科技人物",
+        "世界顶尖科学家论坛"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "An interview with the 2024 WLA Prize winner Jon Kleinberg on algorithmic fairness, Carl Sagan's influence, and why real data lives in industry.",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/wla-prize-202410/",
+      "metrics": null
+    },
+    {
+      "slug": "克莱因伯格-击穿算法偏见",
+      "title": "大江东｜走近科学大咖①克莱因伯格：击穿算法偏见，顶科大奖慧眼识珠",
+      "date": "2024 年 10 月 24 日",
+      "year": null,
+      "outlet": "人民日报客户端（大江东工作室）",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "人物专访",
+      "language": "zh",
+      "role": [
+        "采访写作（第一署名）"
+      ],
+      "co_authors": [
+        "王其馨",
+        "卢天姿",
+        "丁超逸"
+      ],
+      "tags": [
+        "人工智能",
+        "算法公平",
+        "科技人物",
+        "世界顶尖科学家论坛"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "人民日报中央厨房大江东工作室 × 复旦大学新闻学院融媒体项目，客户端浏览量 41.0 万。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/克莱因伯格-击穿算法偏见/",
+      "metrics": {
+        "read": 410000
+      }
+    },
+    {
+      "slug": "一个居民共建的社区花园背后",
+      "title": "一个居民共建的社区花园背后：我们每个人都能成为社区的创变者吗？",
+      "date": "2024 年 2 月 4 日",
+      "year": null,
+      "outlet": "广州日报·新花城",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "特写",
+      "language": "zh",
+      "role": [
+        "撰稿"
+      ],
+      "co_authors": [],
+      "tags": [
+        "社区治理",
+        "公共空间",
+        "城市",
+        "公益"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "跟随社区规划师芮光晔，记录一个由居民共建的社区花园如何从争议走向共识。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/一个居民共建的社区花园背后/",
+      "metrics": null
+    },
+    {
+      "slug": "大塘故事",
+      "title": "纪实摄影专题：大塘故事",
+      "date": null,
+      "year": 2023,
+      "outlet": "个人作品",
+      "edition": null,
+      "category": "摄影",
+      "column": "摄影专题",
+      "language": "zh",
+      "role": [
+        "摄影"
+      ],
+      "co_authors": [],
+      "tags": [
+        "纪实摄影",
+        "城中村",
+        "广州",
+        "纺织"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "广州城中村大塘：订单进去、产品出来，与高速的现代社会完美融合，内部却保持着前现代的生活秩序。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/大塘故事/",
+      "metrics": null
+    },
+    {
+      "slug": "叶落归根-流浪者徐兴邦归乡记",
+      "title": "叶落归根：流浪者徐兴邦归乡记",
+      "date": "2023 年 7 月 23 日",
+      "year": null,
+      "outlet": "谷河青年",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "特写",
+      "language": "zh",
+      "role": [
+        "撰文"
+      ],
+      "co_authors": [],
+      "tags": [
+        "社会民生",
+        "流浪者",
+        "公益",
+        "非虚构"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "漂泊五十五年之后，八十三岁的徐兴邦回到湖南桂阳。这是一场注定遗憾的叶落归根。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/叶落归根-流浪者徐兴邦归乡记/",
+      "metrics": null
+    },
+    {
+      "slug": "指掌乾坤",
+      "title": "指掌乾坤",
+      "date": "2023 年 6 月 1 日",
+      "year": null,
+      "outlet": "课程作品",
+      "edition": null,
+      "category": "视频",
+      "column": "纪录片",
+      "language": "zh",
+      "role": [
+        "摄影指导",
+        "首席摄影",
+        "调色",
+        "剪辑顾问",
+        "包装",
+        "混音",
+        "DIT"
+      ],
+      "co_authors": [],
+      "tags": [
+        "纪录片",
+        "飞盘",
+        "广州",
+        "青年文化"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "广州最大的职业化飞盘俱乐部「荔枝飞盘」主理人 Younger 的成长故事，与他创办「岭南全国极限飞盘公开赛」的经过。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/指掌乾坤/",
+      "metrics": null
+    },
+    {
+      "slug": "不长谋者不足以谋爆红",
+      "title": "不长谋者，不足以谋「爆红」",
+      "date": "2023 年 5 月 10 日",
+      "year": null,
+      "outlet": "微信公众号「谷河青年」",
+      "edition": null,
+      "category": "评论",
+      "column": "评论",
+      "language": "zh",
+      "role": [
+        "撰文"
+      ],
+      "co_authors": [],
+      "tags": [
+        "城市传播",
+        "淄博烧烤",
+        "网络舆论"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "从淄博烧烤的爆红谈起：爆红难以把握，比起研究如何爆红，更重要的是随时准备爆红、最终准备「长红」。",
+      "source_url": "https://mp.weixin.qq.com/s/3LLsG8gtsIB4BBHvJxrgzw",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/不长谋者不足以谋爆红/",
+      "metrics": null
+    },
+    {
+      "slug": "从何说起",
+      "title": "从何说起",
+      "date": null,
+      "year": 2023,
+      "outlet": "课程作品",
+      "edition": null,
+      "category": "视频",
+      "column": "纪录片",
+      "language": "zh",
+      "role": [
+        "导演",
+        "摄影",
+        "剪辑"
+      ],
+      "co_authors": [],
+      "tags": [
+        "纪录片",
+        "疫情",
+        "记录伦理"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "在充满不确定性的时代，一个初学者应该记录什么？",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/从何说起/",
+      "metrics": null
+    },
+    {
+      "slug": "地铁周围",
+      "title": "黑白胶片习作：地铁周围",
+      "date": null,
+      "year": 2023,
+      "outlet": "个人作品",
+      "edition": null,
+      "category": "摄影",
+      "column": "摄影专题",
+      "language": "zh",
+      "role": [
+        "摄影"
+      ],
+      "co_authors": [],
+      "tags": [
+        "纪实摄影",
+        "黑白胶片",
+        "广州",
+        "地铁"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "用一部 1958 年产的 Konica III-L2 记录广州地铁上的陌生人。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/地铁周围/",
+      "metrics": null
+    },
+    {
+      "slug": "三年鏖战-广州疫情新闻发布会跨越终点",
+      "title": "三年鏖战，广州疫情新闻发布会跨越终点",
+      "date": "2022 年 12 月 7 日",
+      "year": null,
+      "outlet": "独立数据项目",
+      "edition": null,
+      "category": "数据可视化",
+      "column": "数据新闻",
+      "language": "zh",
+      "role": [
+        "数据爬取",
+        "可视化代码"
+      ],
+      "co_authors": [
+        "王睿",
+        "杨笑薇"
+      ],
+      "tags": [
+        "数据新闻",
+        "疫情",
+        "广州",
+        "新闻发布会"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "3 年、564 场、3166 位发言人：从 16 个官方渠道抓取 231 场发布会，去重核实后分析 201 场正文全文。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/三年鏖战-广州疫情新闻发布会跨越终点/",
+      "metrics": null
+    },
+    {
+      "slug": "生前预嘱首次入法",
+      "title": "生前预嘱首次入法：生死抉择的制度困境与探索",
+      "date": null,
+      "year": 2022,
+      "outlet": "课程作品（对标《风声Opinion》）",
+      "edition": null,
+      "category": "新闻编辑",
+      "column": "专题策划",
+      "language": "zh",
+      "role": [
+        "主编",
+        "美编"
+      ],
+      "co_authors": [
+        "杨林培",
+        "杨艾麒",
+        "曹展榕"
+      ],
+      "tags": [
+        "生前预嘱",
+        "安宁疗护",
+        "法律",
+        "专题策划"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "以杂志专题形式探讨生前预嘱首次入法背后的制度困境与探索。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/生前预嘱首次入法/",
+      "metrics": null
+    },
+    {
+      "slug": "青山在",
+      "title": "青山在",
+      "date": null,
+      "year": 2022,
+      "outlet": "课程作品",
+      "edition": null,
+      "category": "视频",
+      "column": "纪录片",
+      "language": "zh",
+      "role": [
+        "首席摄影",
+        "剪辑",
+        "包装",
+        "DIT"
+      ],
+      "co_authors": [],
+      "tags": [
+        "纪录片",
+        "乡村",
+        "云南",
+        "人与自然"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "以云南临沧沙帽村原村委书记李子良为主人公，记录他维护治安、行医救人、带村民致富的人生。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/青山在/",
+      "metrics": null
+    },
+    {
+      "slug": "查尔斯还是威廉",
+      "title": "查尔斯还是威廉？如何加冕？——解密王位继承台前幕后",
+      "date": "2022 年 9 月 9 日",
+      "year": null,
+      "outlet": "微信公众号「夏喧的喧」",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "特写",
+      "language": "zh",
+      "role": [
+        "撰稿"
+      ],
+      "co_authors": [],
+      "tags": [
+        "英国",
+        "王室",
+        "国际时事"
+      ],
+      "region": [
+        "英国"
+      ],
+      "summary": "伊丽莎白二世去世后的英国王位继承机制与加冕礼传统。",
+      "source_url": "https://mp.weixin.qq.com/s/hsOjq7yEKLlWOYyIAw32hA",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/查尔斯还是威廉/",
+      "metrics": null
+    },
+    {
+      "slug": "志愿者老尚的周末",
+      "title": "志愿者老尚的周末",
+      "date": null,
+      "year": 2022,
+      "outlet": "个人纪录片企划「城市纪录」",
+      "edition": null,
+      "category": "视频",
+      "column": "纪录片",
+      "language": "zh",
+      "role": [
+        "导演",
+        "摄影",
+        "剪辑"
+      ],
+      "co_authors": [],
+      "tags": [
+        "纪录片",
+        "志愿者",
+        "公益",
+        "广州"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "个人纪录片企划「城市纪录」的代表作，记录志愿者老尚的周末。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/志愿者老尚的周末/",
+      "metrics": null
+    },
+    {
+      "slug": "纹章瓷的传奇",
+      "title": "纹章瓷的传奇（英文）",
+      "date": null,
+      "year": 2022,
+      "outlet": "课程作品",
+      "edition": null,
+      "category": "视频",
+      "column": "短视频",
+      "language": "en",
+      "role": [
+        "作词",
+        "编曲",
+        "演唱",
+        "混音",
+        "画面制作"
+      ],
+      "co_authors": [],
+      "tags": [
+        "跨文化传播",
+        "瓷器",
+        "音乐剧",
+        "英文内容"
+      ],
+      "region": [
+        "中国",
+        "欧洲"
+      ],
+      "summary": "以音乐剧形式向外国网民讲述中国与其他国家的关系。全部歌词、伴奏、演唱、混音与画面均由本人独立完成。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/纹章瓷的传奇/",
+      "metrics": null
+    },
+    {
+      "slug": "禁忌之餐-天津",
+      "title": "图片故事：禁忌之餐·天津",
+      "date": null,
+      "year": 2022,
+      "outlet": "个人作品",
+      "edition": null,
+      "category": "摄影",
+      "column": "摄影专题",
+      "language": "zh",
+      "role": [
+        "摄影"
+      ],
+      "co_authors": [],
+      "tags": [
+        "纪实摄影",
+        "疫情",
+        "天津",
+        "市井"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "2022 年秋天津疫情「静默」期间，被划为「非必要」的早餐如何仍在城市缝隙里流通。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/禁忌之餐-天津/",
+      "metrics": null
+    },
+    {
+      "slug": "从头开始-流浪十余载终踏归途",
+      "title": "从头开始，流浪十余载终踏归途",
+      "date": "2021 年 12 月 21 日",
+      "year": null,
+      "outlet": "广州日报·新花城",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "消息",
+      "language": "zh",
+      "role": [
+        "通讯员"
+      ],
+      "co_authors": [
+        "肖欢欢"
+      ],
+      "tags": [
+        "社会民生",
+        "流浪者",
+        "公益"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "39 岁的黄光杨在志愿者帮助下剪去长发、寻回家人，结束十余年流浪。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/从头开始-流浪十余载终踏归途/",
+      "metrics": null
+    },
+    {
+      "slug": "瞎说议事厅",
+      "title": "瞎说议事厅",
+      "date": null,
+      "year": 2021,
+      "outlet": "华语辩论老友赛",
+      "edition": null,
+      "category": "项目方案",
+      "column": "专题策划",
+      "language": "zh",
+      "role": [
+        "活动策划",
+        "规则制定",
+        "场地谈判",
+        "物料设计",
+        "社群投放"
+      ],
+      "co_authors": [],
+      "tags": [
+        "社群运营",
+        "辩论",
+        "活动策划"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "华语辩论老友赛在职期间与合作同事策划的线上下结合社群运营活动。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/瞎说议事厅/",
+      "metrics": null
+    }
+  ]
+}
