@@ -2,11 +2,11 @@
 
 > 复旦大学新闻学院国际新闻传播硕士，中山大学新闻传播学院新闻学文学学士。 曾任人民日报社拉美中心分社实习记者（2025.11–2026.05），驻巴西里约热内卢，负责巴西、阿根廷、墨西哥、秘鲁、古巴等国的新闻采写与图片报道，稿件见于《人民日报》要闻版、国际版及人民网、人民日报客户端。 关注国际传播、数据新闻与跨文化报道，兼做纪实摄影与纪录片。
 
-本站共收录 71 篇作品，按类别与时间索引。
+本站共收录 72 篇作品，按类别与时间索引。
 
 ## 站点结构
 
-- [全部作品](https://tianze-hou.github.io/Tianze-Portfolio/works/)：71 篇，按时间倒序
+- [全部作品](https://tianze-hou.github.io/Tianze-Portfolio/works/)：72 篇，按时间倒序
 - [索引](https://tianze-hou.github.io/Tianze-Portfolio/index/)：按年份、发表媒体、报道地区与主题四维浏览
 - [关于](https://tianze-hou.github.io/Tianze-Portfolio/about/)
 - [结构化作品索引 (JSON)](https://tianze-hou.github.io/Tianze-Portfolio/works.json)：全部作品的机器可读元数据
@@ -19,7 +19,7 @@
 - [摄影](https://tianze-hou.github.io/Tianze-Portfolio/works/category/摄影/)：3 篇
 - [视频](https://tianze-hou.github.io/Tianze-Portfolio/works/category/视频/)：6 篇
 - [融媒体](https://tianze-hou.github.io/Tianze-Portfolio/works/category/融媒体/)：1 篇
-- [数据可视化](https://tianze-hou.github.io/Tianze-Portfolio/works/category/数据可视化/)：1 篇
+- [数据可视化](https://tianze-hou.github.io/Tianze-Portfolio/works/category/数据可视化/)：2 篇
 - [项目方案](https://tianze-hou.github.io/Tianze-Portfolio/works/category/项目方案/)：1 篇
 
 ## 新闻报道
@@ -111,6 +111,7 @@
 
 ## 数据可视化
 
+- [流量时代，中国文旅的2023](https://tianze-hou.github.io/Tianze-Portfolio/works/流量时代-中国文旅的2023/) — 2024 年 · 独立数据项目 · 数据新闻：从 2023 年至 2024 年第一季度的旅游话题微博、各省文旅抖音账号和各地旅游统计数据出发，追问流量在多大程度上变成了真实的旅游收入。
 - [三年鏖战，广州疫情新闻发布会跨越终点](https://tianze-hou.github.io/Tianze-Portfolio/works/三年鏖战-广州疫情新闻发布会跨越终点/) — 2022 年 12 月 7 日 · 独立数据项目 · 数据新闻：3 年、564 场、3166 位发言人：从 16 个官方渠道抓取 231 场发布会，去重核实后分析 201 场正文全文。
 
 ## 项目方案

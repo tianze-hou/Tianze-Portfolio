@@ -10,8 +10,8 @@
       "曾任人民日报社拉美中心分社实习记者（2025.11–2026.05），驻巴西里约热内卢，负责巴西、阿根廷、墨西哥、秘鲁、古巴等国的新闻采写与图片报道，稿件见于《人民日报》要闻版、国际版及人民网、人民日报客户端。",
       "关注国际传播、数据新闻与跨文化报道，兼做纪实摄影与纪录片。"
     ],
-    "generated_at": "2026-10-15T12:57:19.806Z",
-    "total_works": 71
+    "generated_at": "2026-10-15T20:15:47.335Z",
+    "total_works": 72
   },
   "works": [
     {
@@ -1567,6 +1567,36 @@
       "summary": "跟随社区规划师芮光晔，记录一个由居民共建的社区花园如何从争议走向共识。",
       "source_url": null,
       "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/一个居民共建的社区花园背后/",
+      "metrics": null
+    },
+    {
+      "slug": "流量时代-中国文旅的2023",
+      "title": "流量时代，中国文旅的2023",
+      "date": null,
+      "year": 2024,
+      "outlet": "独立数据项目",
+      "edition": null,
+      "category": "数据可视化",
+      "column": "数据新闻",
+      "language": "zh",
+      "role": [
+        "数据爬取",
+        "数据清洗",
+        "可视化实现"
+      ],
+      "co_authors": [],
+      "tags": [
+        "数据新闻",
+        "文旅",
+        "微博",
+        "抖音"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "从 2023 年至 2024 年第一季度的旅游话题微博、各省文旅抖音账号和各地旅游统计数据出发，追问流量在多大程度上变成了真实的旅游收入。",
+      "source_url": "https://tianze-hou.github.io/CNTourismDataViz2023/",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/流量时代-中国文旅的2023/",
       "metrics": null
     },
     {
