@@ -2,28 +2,30 @@
 
 > 复旦大学新闻学院国际新闻传播硕士，中山大学新闻传播学院新闻学文学学士。 曾任人民日报社拉美中心分社实习记者（2025.11–2026.05），驻巴西里约热内卢，负责巴西、阿根廷、墨西哥、秘鲁、古巴等国的新闻采写与图片报道，稿件见于《人民日报》要闻版、国际版及人民网、人民日报客户端。 关注国际传播、数据新闻与跨文化报道，兼做纪实摄影与纪录片。
 
-本站共收录 72 篇作品，按类别与时间索引。
+本站共收录 76 篇作品，按类别与时间索引。
 
 ## 站点结构
 
-- [全部作品](https://tianze-hou.github.io/Tianze-Portfolio/works/)：72 篇，按时间倒序
+- [全部作品](https://tianze-hou.github.io/Tianze-Portfolio/works/)：76 篇，按时间倒序
 - [索引](https://tianze-hou.github.io/Tianze-Portfolio/index/)：按年份、发表媒体、报道地区与主题四维浏览
 - [关于](https://tianze-hou.github.io/Tianze-Portfolio/about/)
 - [结构化作品索引 (JSON)](https://tianze-hou.github.io/Tianze-Portfolio/works.json)：全部作品的机器可读元数据
 
 ## 分类
 
-- [新闻报道](https://tianze-hou.github.io/Tianze-Portfolio/works/category/新闻报道/)：57 篇
+- [新闻报道](https://tianze-hou.github.io/Tianze-Portfolio/works/category/新闻报道/)：59 篇
 - [评论](https://tianze-hou.github.io/Tianze-Portfolio/works/category/评论/)：1 篇
 - [新闻编辑](https://tianze-hou.github.io/Tianze-Portfolio/works/category/新闻编辑/)：1 篇
 - [摄影](https://tianze-hou.github.io/Tianze-Portfolio/works/category/摄影/)：3 篇
-- [视频](https://tianze-hou.github.io/Tianze-Portfolio/works/category/视频/)：6 篇
+- [视频](https://tianze-hou.github.io/Tianze-Portfolio/works/category/视频/)：8 篇
 - [融媒体](https://tianze-hou.github.io/Tianze-Portfolio/works/category/融媒体/)：1 篇
 - [数据可视化](https://tianze-hou.github.io/Tianze-Portfolio/works/category/数据可视化/)：2 篇
 - [项目方案](https://tianze-hou.github.io/Tianze-Portfolio/works/category/项目方案/)：1 篇
 
 ## 新闻报道
 
+- [大江东丨 走近科学大咖②不追热点，敢闯无人区，这些年轻人为何选择逆行](https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-走近科学大咖2-青年科学家/) — 2026 年 10 月 31 日 · 人民日报客户端（大江东工作室） · 人物专访：首届青年科学家奖得主陈培宁、谢伟迪谈科研方向的选择：不追热点，去做「难度排在前 10% 的事」。
+- [大江东丨走近科学大咖① AI制药冲进三期临床，泡沫还是功德？三位顶尖科学家实话实说](https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-走近科学大咖1-ai制药/) — 2026 年 10 月 31 日 · 人民日报客户端（大江东工作室） · 人物专访：2026 世界顶尖科学家论坛期间，对话莱维特、罗兹、梅耶三位科学家：患者模型能否替代人体试验，AI 会不会取代科学家。
 - [中国科学家首获这项科学大奖](https://tianze-hou.github.io/Tianze-Portfolio/works/中国科学家首获顶科奖/) — 2026 年 9 月 10 日 · 人民日报客户端（上海频道） · 消息：顶科奖 2021 年创设以来首次有中国籍科学家获奖：袁钧瑛、王晓东、邵峰、维什瓦·迪克西特共同分享「生命科学或医学奖」。
 - [中国企业助力拉美国家发展互联网新业态](https://tianze-hou.github.io/Tianze-Portfolio/works/2026-08-22-中国企业助力拉美国家发展互联网新业态/) — 2026 年 8 月 22 日 · 人民日报 · 第 3 版 要闻 · 头条 · 通讯：离任后发稿，版面头条，由本人执笔。
 - [秘鲁探索森林可持续治理新模式](https://tianze-hou.github.io/Tianze-Portfolio/works/2026-08-03-秘鲁探索森林可持续治理新模式/) — 2026 年 8 月 3 日 · 人民日报 · 第 15 版 国际 · 国际视点：离任后发稿，由本人执笔。
@@ -98,6 +100,8 @@
 
 ## 视频
 
+- [诺奖得主莱维特：不用AI的人才会反对AI](https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-视频-莱维特/) — 2026 年 10 月 · 微信视频号「大江东工作室」 · 短视频：2013 年诺贝尔化学奖得主迈克尔·莱维特访谈：不用 AI 的人才会反对 AI。
+- [青年科学家奖得主谢伟迪：攻克罕见病，药厂不大想做？用AI做](https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-视频-谢伟迪/) — 2026 年 10 月 · 微信视频号「大江东工作室」 · 短视频：首届青年科学家奖得主谢伟迪访谈：罕见病药厂不大想做，那就用 AI 来做。
 - [CCTV 科教频道《顶尖科学》：科学探索者](https://tianze-hou.github.io/Tianze-Portfolio/works/cctv-顶尖科学-科学探索者/) — 2025 年 1 月 11 日 · 中央广播电视总台 科教频道 · 纪录片：在 2024 世界顶尖科学家论坛采访期间被央视科教频道《顶尖科学》摄制组临时邀请，作为编导助理参与专题片制作。
 - [指掌乾坤](https://tianze-hou.github.io/Tianze-Portfolio/works/指掌乾坤/) — 2023 年 6 月 1 日 · 课程作品 · 纪录片：广州最大的职业化飞盘俱乐部「荔枝飞盘」主理人 Younger 的成长故事，与他创办「岭南全国极限飞盘公开赛」的经过。
 - [从何说起](https://tianze-hou.github.io/Tianze-Portfolio/works/从何说起/) — 2023 年 2 月 · 课程作品 · 纪录片：在充满不确定性的时代，一个初学者应该记录什么？

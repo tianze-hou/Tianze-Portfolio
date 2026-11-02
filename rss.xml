@@ -5,8 +5,55 @@
     <link>https://tianze-hou.github.io/Tianze-Portfolio/</link>
     <description>侯天泽的个人作品集：新闻报道、评论、摄影、视频、数据可视化与调研报告。复旦大学新闻学院国际新闻传播硕士，曾任人民日报社拉美中心分社实习记者。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 20:15:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:42:46 GMT</lastBuildDate>
     <atom:link href="https://tianze-hou.github.io/Tianze-Portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>大江东丨 走近科学大咖②不追热点，敢闯无人区，这些年轻人为何选择逆行</title>
+      <link>https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-走近科学大咖2-青年科学家/</link>
+      <guid isPermaLink="true">https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-走近科学大咖2-青年科学家/</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>新闻报道</category>
+      <category>世界顶尖科学家论坛</category>
+      <category>青年科学家</category>
+      <category>科研评价</category>
+      <category>科学传播</category>
+      <description>首届青年科学家奖得主陈培宁、谢伟迪谈科研方向的选择：不追热点，去做「难度排在前 10% 的事」。</description>
+    </item>
+    <item>
+      <title>大江东丨走近科学大咖① AI制药冲进三期临床，泡沫还是功德？三位顶尖科学家实话实说</title>
+      <link>https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-走近科学大咖1-ai制药/</link>
+      <guid isPermaLink="true">https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-走近科学大咖1-ai制药/</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <category>新闻报道</category>
+      <category>世界顶尖科学家论坛</category>
+      <category>AI制药</category>
+      <category>人工智能</category>
+      <category>科学传播</category>
+      <description>2026 世界顶尖科学家论坛期间，对话莱维特、罗兹、梅耶三位科学家：患者模型能否替代人体试验，AI 会不会取代科学家。</description>
+    </item>
+    <item>
+      <title>诺奖得主莱维特：不用AI的人才会反对AI</title>
+      <link>https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-视频-莱维特/</link>
+      <guid isPermaLink="true">https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-视频-莱维特/</guid>
+      <pubDate>Wed, 31 Dec 2025 16:00:00 GMT</pubDate>
+      <category>视频</category>
+      <category>世界顶尖科学家论坛</category>
+      <category>人工智能</category>
+      <category>科学传播</category>
+      <description>2013 年诺贝尔化学奖得主迈克尔·莱维特访谈：不用 AI 的人才会反对 AI。</description>
+    </item>
+    <item>
+      <title>青年科学家奖得主谢伟迪：攻克罕见病，药厂不大想做？用AI做</title>
+      <link>https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-视频-谢伟迪/</link>
+      <guid isPermaLink="true">https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-视频-谢伟迪/</guid>
+      <pubDate>Wed, 31 Dec 2025 16:00:00 GMT</pubDate>
+      <category>视频</category>
+      <category>世界顶尖科学家论坛</category>
+      <category>罕见病</category>
+      <category>人工智能</category>
+      <category>科学传播</category>
+      <description>首届青年科学家奖得主谢伟迪访谈：罕见病药厂不大想做，那就用 AI 来做。</description>
+    </item>
     <item>
       <title>中国科学家首获这项科学大奖</title>
       <link>https://tianze-hou.github.io/Tianze-Portfolio/works/中国科学家首获顶科奖/</link>
@@ -466,46 +513,6 @@
       <category>新闻报道</category>
       <category>体育交流</category>
       <description>人民网</description>
-    </item>
-    <item>
-      <title>巴西第一大城市引入美团旗下外卖品牌</title>
-      <link>https://tianze-hou.github.io/Tianze-Portfolio/works/2025-11-27-巴西引入美团外卖品牌/</link>
-      <guid isPermaLink="true">https://tianze-hou.github.io/Tianze-Portfolio/works/2025-11-27-巴西引入美团外卖品牌/</guid>
-      <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
-      <category>新闻报道</category>
-      <category>中企出海</category>
-      <category>数字经济</category>
-      <description>人民网</description>
-    </item>
-    <item>
-      <title>援圭亚那中国医疗队助力当地糖尿病防治</title>
-      <link>https://tianze-hou.github.io/Tianze-Portfolio/works/2025-11-27-援圭医疗队助力糖尿病防治/</link>
-      <guid isPermaLink="true">https://tianze-hou.github.io/Tianze-Portfolio/works/2025-11-27-援圭医疗队助力糖尿病防治/</guid>
-      <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
-      <category>新闻报道</category>
-      <category>援外医疗</category>
-      <description>人民网</description>
-    </item>
-    <item>
-      <title>“巴西红棉学堂”在里约热内卢举行揭牌暨开班仪式</title>
-      <link>https://tianze-hou.github.io/Tianze-Portfolio/works/2025-11-24-巴西红棉学堂在里约揭牌/</link>
-      <guid isPermaLink="true">https://tianze-hou.github.io/Tianze-Portfolio/works/2025-11-24-巴西红棉学堂在里约揭牌/</guid>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-      <category>新闻报道</category>
-      <category>中文教育</category>
-      <description>人民网</description>
-    </item>
-    <item>
-      <title>The American reporter who revealed Nanjing and rediscovered China</title>
-      <link>https://tianze-hou.github.io/Tianze-Portfolio/works/the-american-reporter-who-revealed-nanjing-and-rediscovered-china/</link>
-      <guid isPermaLink="true">https://tianze-hou.github.io/Tianze-Portfolio/works/the-american-reporter-who-revealed-nanjing-and-rediscovered-china/</guid>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-      <category>新闻报道</category>
-      <category>新闻史</category>
-      <category>南京大屠杀</category>
-      <category>人物</category>
-      <category>中美关系</category>
-      <description>以七个「Day」重构《纽约时报》记者都丁（Frank Tillman Durdin）与中国的七十年——1937 年南京沦陷时留守城内的五名美国记者之一，1971 年重返新中国。</description>
     </item>
   </channel>
 </rss>

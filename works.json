@@ -10,10 +10,135 @@
       "曾任人民日报社拉美中心分社实习记者（2025.11–2026.05），驻巴西里约热内卢，负责巴西、阿根廷、墨西哥、秘鲁、古巴等国的新闻采写与图片报道，稿件见于《人民日报》要闻版、国际版及人民网、人民日报客户端。",
       "关注国际传播、数据新闻与跨文化报道，兼做纪实摄影与纪录片。"
     ],
-    "generated_at": "2026-10-15T20:15:47.335Z",
-    "total_works": 72
+    "generated_at": "2026-11-02T08:42:46.688Z",
+    "total_works": 76
   },
   "works": [
+    {
+      "slug": "dajiangdong-走近科学大咖2-青年科学家",
+      "title": "大江东丨 走近科学大咖②不追热点，敢闯无人区，这些年轻人为何选择逆行",
+      "date": "2026 年 10 月 31 日",
+      "year": null,
+      "outlet": "人民日报客户端（大江东工作室）",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "人物专访",
+      "language": "zh",
+      "role": [
+        "参与采写"
+      ],
+      "co_authors": [
+        "黄晓慧",
+        "黄婉清",
+        "高寒",
+        "李微"
+      ],
+      "tags": [
+        "世界顶尖科学家论坛",
+        "青年科学家",
+        "科研评价",
+        "科学传播"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "首届青年科学家奖得主陈培宁、谢伟迪谈科研方向的选择：不追热点，去做「难度排在前 10% 的事」。",
+      "source_url": "https://sh.people.com.cn/n2/2026/1031/c134768-41738250.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-走近科学大咖2-青年科学家/",
+      "metrics": null
+    },
+    {
+      "slug": "dajiangdong-走近科学大咖1-ai制药",
+      "title": "大江东丨走近科学大咖① AI制药冲进三期临床，泡沫还是功德？三位顶尖科学家实话实说",
+      "date": "2026 年 10 月 31 日",
+      "year": null,
+      "outlet": "人民日报客户端（大江东工作室）",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "人物专访",
+      "language": "zh",
+      "role": [
+        "参与采写"
+      ],
+      "co_authors": [
+        "黄晓慧",
+        "高寒",
+        "陈欣越",
+        "张甲怡"
+      ],
+      "tags": [
+        "世界顶尖科学家论坛",
+        "AI制药",
+        "人工智能",
+        "科学传播"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "2026 世界顶尖科学家论坛期间，对话莱维特、罗兹、梅耶三位科学家：患者模型能否替代人体试验，AI 会不会取代科学家。",
+      "source_url": "https://sh.people.com.cn/n2/2026/1031/c134768-41738248.html",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-走近科学大咖1-ai制药/",
+      "metrics": null
+    },
+    {
+      "slug": "dajiangdong-视频-莱维特",
+      "title": "诺奖得主莱维特：不用AI的人才会反对AI",
+      "date": null,
+      "year": 2026,
+      "outlet": "微信视频号「大江东工作室」",
+      "edition": null,
+      "category": "视频",
+      "column": "短视频",
+      "language": "zh",
+      "role": [
+        "英文主采",
+        "拍摄",
+        "剪辑"
+      ],
+      "co_authors": [],
+      "tags": [
+        "世界顶尖科学家论坛",
+        "人工智能",
+        "科学传播"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "2013 年诺贝尔化学奖得主迈克尔·莱维特访谈：不用 AI 的人才会反对 AI。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-视频-莱维特/",
+      "metrics": null
+    },
+    {
+      "slug": "dajiangdong-视频-谢伟迪",
+      "title": "青年科学家奖得主谢伟迪：攻克罕见病，药厂不大想做？用AI做",
+      "date": null,
+      "year": 2026,
+      "outlet": "微信视频号「大江东工作室」",
+      "edition": null,
+      "category": "视频",
+      "column": "短视频",
+      "language": "zh",
+      "role": [
+        "采访",
+        "拍摄",
+        "剪辑"
+      ],
+      "co_authors": [],
+      "tags": [
+        "世界顶尖科学家论坛",
+        "罕见病",
+        "人工智能",
+        "科学传播"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "首届青年科学家奖得主谢伟迪访谈：罕见病药厂不大想做，那就用 AI 来做。",
+      "source_url": null,
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-视频-谢伟迪/",
+      "metrics": null
+    },
     {
       "slug": "中国科学家首获顶科奖",
       "title": "中国科学家首获这项科学大奖",
