@@ -17,8 +17,7 @@
 - [评论](https://tianze-hou.github.io/Tianze-Portfolio/works/category/评论/)：1 篇
 - [新闻编辑](https://tianze-hou.github.io/Tianze-Portfolio/works/category/新闻编辑/)：1 篇
 - [摄影](https://tianze-hou.github.io/Tianze-Portfolio/works/category/摄影/)：3 篇
-- [视频](https://tianze-hou.github.io/Tianze-Portfolio/works/category/视频/)：8 篇
-- [融媒体](https://tianze-hou.github.io/Tianze-Portfolio/works/category/融媒体/)：1 篇
+- [视频](https://tianze-hou.github.io/Tianze-Portfolio/works/category/视频/)：9 篇
 - [数据可视化](https://tianze-hou.github.io/Tianze-Portfolio/works/category/数据可视化/)：2 篇
 - [项目方案](https://tianze-hou.github.io/Tianze-Portfolio/works/category/项目方案/)：1 篇
 
@@ -102,16 +101,13 @@
 
 - [诺奖得主莱维特：不用AI的人才会反对AI](https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-视频-莱维特/) — 2026 年 10 月 · 微信视频号「大江东工作室」 · 短视频：2013 年诺贝尔化学奖得主迈克尔·莱维特访谈：不用 AI 的人才会反对 AI。
 - [青年科学家奖得主谢伟迪：攻克罕见病，药厂不大想做？用AI做](https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-视频-谢伟迪/) — 2026 年 10 月 · 微信视频号「大江东工作室」 · 短视频：首届青年科学家奖得主谢伟迪访谈：罕见病药厂不大想做，那就用 AI 来做。
+- [「丝路方舟」号开到巴西来](https://tianze-hou.github.io/Tianze-Portfolio/works/丝路方舟号开到巴西来/) — 2026 年 · 人民日报国际（微信公众号） · 短视频：「人民日报国际」公众号视频作品，记录「丝路方舟」号医院船访问巴西。
 - [CCTV 科教频道《顶尖科学》：科学探索者](https://tianze-hou.github.io/Tianze-Portfolio/works/cctv-顶尖科学-科学探索者/) — 2025 年 1 月 11 日 · 中央广播电视总台 科教频道 · 纪录片：在 2024 世界顶尖科学家论坛采访期间被央视科教频道《顶尖科学》摄制组临时邀请，作为编导助理参与专题片制作。
 - [指掌乾坤](https://tianze-hou.github.io/Tianze-Portfolio/works/指掌乾坤/) — 2023 年 6 月 1 日 · 课程作品 · 纪录片：广州最大的职业化飞盘俱乐部「荔枝飞盘」主理人 Younger 的成长故事，与他创办「岭南全国极限飞盘公开赛」的经过。
 - [从何说起](https://tianze-hou.github.io/Tianze-Portfolio/works/从何说起/) — 2023 年 2 月 · 课程作品 · 纪录片：在充满不确定性的时代，一个初学者应该记录什么？
 - [青山在](https://tianze-hou.github.io/Tianze-Portfolio/works/青山在/) — 2022 年 11 月 · 课程作品 · 纪录片：以云南临沧沙帽村原村委书记李子良为主人公，记录他维护治安、行医救人、带村民致富的人生。
 - [志愿者老尚的周末](https://tianze-hou.github.io/Tianze-Portfolio/works/志愿者老尚的周末/) — 2022 年 8 月 · 个人纪录片企划「城市纪录」 · 纪录片：个人纪录片企划「城市纪录」的代表作，记录志愿者老尚的周末。
 - [纹章瓷的传奇（英文）](https://tianze-hou.github.io/Tianze-Portfolio/works/纹章瓷的传奇/) — 2022 年 6 月 · 课程作品 · 短视频：以音乐剧形式向外国网民讲述中国与其他国家的关系。全部歌词、伴奏、演唱、混音与画面均由本人独立完成。
-
-## 融媒体
-
-- [「丝路方舟」号开到巴西来](https://tianze-hou.github.io/Tianze-Portfolio/works/丝路方舟号开到巴西来/) — 2026 年 · 人民日报国际（微信公众号） · 短视频：「人民日报国际」公众号视频作品，记录「丝路方舟」号医院船访问巴西。
 
 ## 数据可视化
 
