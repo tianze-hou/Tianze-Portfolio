@@ -10,7 +10,7 @@
       "曾任人民日报社拉美中心分社实习记者（2025.11–2026.05），驻巴西里约热内卢，负责巴西、阿根廷、墨西哥、秘鲁、古巴等国的新闻采写与图片报道，稿件见于《人民日报》要闻版、国际版及人民网、人民日报客户端。",
       "关注国际传播、数据新闻与跨文化报道，兼做纪实摄影与纪录片。"
     ],
-    "generated_at": "2026-11-09T15:49:41.606Z",
+    "generated_at": "2026-11-09T17:01:59.882Z",
     "total_works": 77
   },
   "works": [
@@ -21,7 +21,9 @@
       "year": null,
       "outlet": "人民日报英文客户端",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "人物专访"
       ],
@@ -60,7 +62,9 @@
       "year": null,
       "outlet": "人民日报客户端（大江东工作室）",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "人物专访"
       ],
@@ -96,7 +100,9 @@
       "year": null,
       "outlet": "人民日报客户端（大江东工作室）",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "人物专访"
       ],
@@ -133,7 +139,9 @@
       "year": 2026,
       "outlet": "微信视频号「大江东工作室」",
       "edition": null,
-      "category": "视频",
+      "category": [
+        "视频"
+      ],
       "column": [
         "短视频"
       ],
@@ -166,7 +174,9 @@
       "year": 2026,
       "outlet": "微信视频号「大江东工作室」",
       "edition": null,
-      "category": "视频",
+      "category": [
+        "视频"
+      ],
       "column": [
         "短视频"
       ],
@@ -200,7 +210,9 @@
       "year": null,
       "outlet": "人民日报客户端（上海频道）",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -233,7 +245,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 3 版 要闻 · 头条",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "通讯"
       ],
@@ -269,7 +283,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 15 版 国际",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "国际视点"
       ],
@@ -303,7 +319,9 @@
       "year": null,
       "outlet": "人民日报海外版",
       "edition": "第 6 版 国际观察 · 头条",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "环球热点"
       ],
@@ -335,7 +353,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -366,7 +386,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 15 版 国际 · 头条",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "国际视点"
       ],
@@ -402,7 +424,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -432,7 +456,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 17 版 国际 · 整版",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "海外名家话中国"
       ],
@@ -468,7 +494,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -496,7 +524,9 @@
       "year": null,
       "outlet": "人民日报英文客户端",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "人物专访"
       ],
@@ -525,7 +555,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 15 版 国际 · 头条",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "国际视点"
       ],
@@ -555,7 +587,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -587,7 +621,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 3 版 要闻 · 头条",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "外媒看中国"
       ],
@@ -621,7 +657,10 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道",
+        "摄影"
+      ],
       "column": [
         "图片报道",
         "摄影专题"
@@ -653,7 +692,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 3 版 要闻",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "人物专访"
       ],
@@ -688,7 +729,10 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 15 版 国际",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道",
+        "摄影"
+      ],
       "column": [
         "图片报道",
         "摄影专题"
@@ -722,7 +766,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -756,7 +802,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -785,7 +833,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 4 版 要闻 · 头条",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "通讯"
       ],
@@ -824,7 +874,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -852,7 +904,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 3 版 要闻 · 头条",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "外媒看中国"
       ],
@@ -887,7 +941,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 3 版 要闻 · 头条",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "外媒看中国"
       ],
@@ -921,7 +977,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -953,7 +1011,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 3 版 要闻 · 头条",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "通讯"
       ],
@@ -989,7 +1049,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 17 版 国际 · 整版",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "权威论坛"
       ],
@@ -1026,7 +1088,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1054,7 +1118,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1083,7 +1149,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1114,7 +1182,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1147,7 +1217,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 17 版 国际 · 整版",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "整版专题"
       ],
@@ -1181,7 +1253,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1213,7 +1287,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1243,7 +1319,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1275,7 +1353,9 @@
       "year": 2026,
       "outlet": "人民日报国际（微信公众号）",
       "edition": null,
-      "category": "视频",
+      "category": [
+        "视频"
+      ],
       "column": [
         "短视频"
       ],
@@ -1306,7 +1386,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1334,7 +1416,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1364,7 +1448,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 3 版 要闻 · 倒头条",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "要闻短讯"
       ],
@@ -1402,7 +1488,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 3 版 要闻 · 头条",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "外媒看中国"
       ],
@@ -1437,7 +1525,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1466,7 +1556,9 @@
       "year": null,
       "outlet": "人民日报",
       "edition": "第 3 版 要闻",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "要闻短讯"
       ],
@@ -1503,7 +1595,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1534,7 +1628,9 @@
       "year": null,
       "outlet": "人民日报海外版",
       "edition": "第 6 版 国际观察",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "国际观察"
       ],
@@ -1568,7 +1664,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1600,7 +1698,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1631,7 +1731,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1661,7 +1763,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1691,7 +1795,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1721,7 +1827,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1750,7 +1858,9 @@
       "year": null,
       "outlet": "人民网",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -1782,7 +1892,9 @@
       "year": null,
       "outlet": "City News Service",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "深度报道"
       ],
@@ -1813,7 +1925,9 @@
       "year": null,
       "outlet": "中央广播电视总台 科教频道",
       "edition": null,
-      "category": "视频",
+      "category": [
+        "视频"
+      ],
       "column": [
         "纪录片"
       ],
@@ -1844,7 +1958,9 @@
       "year": null,
       "outlet": "人民日报海外版",
       "edition": "第 9 版 科教人物坊",
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "人物专访"
       ],
@@ -1882,7 +1998,9 @@
       "year": null,
       "outlet": "人民日报客户端（大江东工作室）",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "人物专访"
       ],
@@ -1916,7 +2034,9 @@
       "year": null,
       "outlet": "人民日报英文客户端",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "人物专访"
       ],
@@ -1948,7 +2068,9 @@
       "year": null,
       "outlet": "人民日报客户端（大江东工作室）",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "人物专访"
       ],
@@ -1985,7 +2107,9 @@
       "year": null,
       "outlet": "广州日报·新花城",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "特写"
       ],
@@ -2016,7 +2140,9 @@
       "year": 2024,
       "outlet": "独立数据项目",
       "edition": null,
-      "category": "数据可视化",
+      "category": [
+        "数据可视化"
+      ],
       "column": [
         "数据新闻"
       ],
@@ -2048,7 +2174,9 @@
       "year": 2023,
       "outlet": "个人作品",
       "edition": null,
-      "category": "摄影",
+      "category": [
+        "摄影"
+      ],
       "column": [
         "摄影专题"
       ],
@@ -2079,7 +2207,9 @@
       "year": null,
       "outlet": "谷河青年",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "特写"
       ],
@@ -2109,7 +2239,9 @@
       "year": null,
       "outlet": "课程作品",
       "edition": null,
-      "category": "视频",
+      "category": [
+        "视频"
+      ],
       "column": [
         "纪录片"
       ],
@@ -2146,7 +2278,9 @@
       "year": null,
       "outlet": "微信公众号「谷河青年」",
       "edition": null,
-      "category": "评论",
+      "category": [
+        "评论"
+      ],
       "column": [
         "评论"
       ],
@@ -2175,7 +2309,9 @@
       "year": 2023,
       "outlet": "课程作品",
       "edition": null,
-      "category": "视频",
+      "category": [
+        "视频"
+      ],
       "column": [
         "纪录片"
       ],
@@ -2207,7 +2343,9 @@
       "year": 2023,
       "outlet": "个人作品",
       "edition": null,
-      "category": "摄影",
+      "category": [
+        "摄影"
+      ],
       "column": [
         "摄影专题"
       ],
@@ -2237,7 +2375,9 @@
       "year": null,
       "outlet": "独立数据项目",
       "edition": null,
-      "category": "数据可视化",
+      "category": [
+        "数据可视化"
+      ],
       "column": [
         "数据新闻"
       ],
@@ -2272,7 +2412,9 @@
       "year": 2022,
       "outlet": "课程作品（对标《风声Opinion》）",
       "edition": null,
-      "category": "新闻编辑",
+      "category": [
+        "新闻编辑"
+      ],
       "column": [
         "专题策划"
       ],
@@ -2307,7 +2449,9 @@
       "year": 2022,
       "outlet": "课程作品",
       "edition": null,
-      "category": "视频",
+      "category": [
+        "视频"
+      ],
       "column": [
         "纪录片"
       ],
@@ -2341,7 +2485,9 @@
       "year": null,
       "outlet": "微信公众号「夏喧的喧」",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "特写"
       ],
@@ -2372,7 +2518,9 @@
       "year": 2022,
       "outlet": "个人纪录片企划「城市纪录」",
       "edition": null,
-      "category": "视频",
+      "category": [
+        "视频"
+      ],
       "column": [
         "纪录片"
       ],
@@ -2404,7 +2552,9 @@
       "year": 2022,
       "outlet": "课程作品",
       "edition": null,
-      "category": "视频",
+      "category": [
+        "视频"
+      ],
       "column": [
         "短视频"
       ],
@@ -2440,7 +2590,9 @@
       "year": 2022,
       "outlet": "个人作品",
       "edition": null,
-      "category": "摄影",
+      "category": [
+        "摄影"
+      ],
       "column": [
         "摄影专题"
       ],
@@ -2471,7 +2623,9 @@
       "year": null,
       "outlet": "广州日报·新花城",
       "edition": null,
-      "category": "新闻报道",
+      "category": [
+        "新闻报道"
+      ],
       "column": [
         "消息"
       ],
@@ -2503,7 +2657,9 @@
       "year": 2021,
       "outlet": "华语辩论老友赛",
       "edition": null,
-      "category": "项目方案",
+      "category": [
+        "项目方案"
+      ],
       "column": [
         "专题策划"
       ],

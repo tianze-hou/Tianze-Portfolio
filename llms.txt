@@ -16,7 +16,7 @@
 - [新闻报道](https://tianze-hou.github.io/Tianze-Portfolio/works/category/新闻报道/)：60 篇
 - [评论](https://tianze-hou.github.io/Tianze-Portfolio/works/category/评论/)：1 篇
 - [新闻编辑](https://tianze-hou.github.io/Tianze-Portfolio/works/category/新闻编辑/)：1 篇
-- [摄影](https://tianze-hou.github.io/Tianze-Portfolio/works/category/摄影/)：3 篇
+- [摄影](https://tianze-hou.github.io/Tianze-Portfolio/works/category/摄影/)：5 篇
 - [视频](https://tianze-hou.github.io/Tianze-Portfolio/works/category/视频/)：9 篇
 - [数据可视化](https://tianze-hou.github.io/Tianze-Portfolio/works/category/数据可视化/)：2 篇
 - [项目方案](https://tianze-hou.github.io/Tianze-Portfolio/works/category/项目方案/)：1 篇
@@ -94,6 +94,8 @@
 
 ## 摄影
 
+- [巴西里约热内卢社区芭蕾舞学校开展中文阅读活动](https://tianze-hou.github.io/Tianze-Portfolio/works/2026-04-07-里约社区芭蕾舞学校中文阅读活动/) — 2026 年 4 月 7 日 · 人民网 · 图片报道 / 摄影专题
+- [图片报道（世界儿童图书日）](https://tianze-hou.github.io/Tianze-Portfolio/works/2026-04-03-图片报道世界儿童图书日/) — 2026 年 4 月 3 日 · 人民日报 · 第 15 版 国际 · 图片报道 / 摄影专题：世界儿童图书日图片报道，其中一张为本人拍摄。
 - [纪实摄影专题：大塘故事](https://tianze-hou.github.io/Tianze-Portfolio/works/大塘故事/) — 2023 年 8 月 · 个人作品 · 摄影专题：广州城中村大塘：订单进去、产品出来，与高速的现代社会完美融合，内部却保持着前现代的生活秩序。
 - [黑白胶片习作：地铁周围](https://tianze-hou.github.io/Tianze-Portfolio/works/地铁周围/) — 2023 年 · 个人作品 · 摄影专题：用一部 1958 年产的 Konica III-L2 记录广州地铁上的陌生人。
 - [图片故事：禁忌之餐·天津](https://tianze-hou.github.io/Tianze-Portfolio/works/禁忌之餐-天津/) — 2022 年 · 个人作品 · 摄影专题：2022 年秋天津疫情「静默」期间，被划为「非必要」的早餐如何仍在城市缝隙里流通。
