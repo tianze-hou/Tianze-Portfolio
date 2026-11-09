@@ -5,8 +5,21 @@
     <link>https://tianze-hou.github.io/Tianze-Portfolio/</link>
     <description>侯天泽的个人作品集：新闻报道、评论、摄影、视频、数据可视化与调研报告。复旦大学新闻学院国际新闻传播硕士，曾任人民日报社拉美中心分社实习记者。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 13:07:04 GMT</lastBuildDate>
     <atom:link href="https://tianze-hou.github.io/Tianze-Portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>When AI predicts what works, but not why: three leading scientists on AI&apos;s future in drug discovery</title>
+      <link>https://tianze-hou.github.io/Tianze-Portfolio/works/2026-11-08-when-ai-predicts-what-works-but-not-why/</link>
+      <guid isPermaLink="true">https://tianze-hou.github.io/Tianze-Portfolio/works/2026-11-08-when-ai-predicts-what-works-but-not-why/</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <category>新闻报道</category>
+      <category>世界顶尖科学家论坛</category>
+      <category>AI制药</category>
+      <category>人工智能</category>
+      <category>人物专访</category>
+      <category>科学传播</category>
+      <description>在2026世界顶尖科学家论坛期间，作为英文主采对话2013年诺贝尔化学奖得主迈克尔·莱维特（Michael Levitt），并联合丹妮拉·罗兹（Daniela Rhodes）、帕斯卡尔·梅耶（Pascal Mayer）两位顶尖科学家的访谈，执笔探讨AI制药的“黑箱”争议、虚拟患者临床模拟与科学探索中人类追问“为什么”的价值。</description>
+    </item>
     <item>
       <title>大江东丨 走近科学大咖②不追热点，敢闯无人区，这些年轻人为何选择逆行</title>
       <link>https://tianze-hou.github.io/Tianze-Portfolio/works/dajiangdong-走近科学大咖2-青年科学家/</link>
@@ -503,15 +516,6 @@
       <category>能源合作</category>
       <category>中企出海</category>
       <category>新能源</category>
-      <description>人民网</description>
-    </item>
-    <item>
-      <title>2025中巴羽毛球友谊赛在巴西里约举行</title>
-      <link>https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-01-中巴羽毛球友谊赛/</link>
-      <guid isPermaLink="true">https://tianze-hou.github.io/Tianze-Portfolio/works/2025-12-01-中巴羽毛球友谊赛/</guid>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-      <category>新闻报道</category>
-      <category>体育交流</category>
       <description>人民网</description>
     </item>
   </channel>

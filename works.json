@@ -10,10 +10,45 @@
       "曾任人民日报社拉美中心分社实习记者（2025.11–2026.05），驻巴西里约热内卢，负责巴西、阿根廷、墨西哥、秘鲁、古巴等国的新闻采写与图片报道，稿件见于《人民日报》要闻版、国际版及人民网、人民日报客户端。",
       "关注国际传播、数据新闻与跨文化报道，兼做纪实摄影与纪录片。"
     ],
-    "generated_at": "2026-11-02T09:09:00.829Z",
-    "total_works": 76
+    "generated_at": "2026-11-09T13:07:04.829Z",
+    "total_works": 77
   },
   "works": [
+    {
+      "slug": "2026-11-08-when-ai-predicts-what-works-but-not-why",
+      "title": "When AI predicts what works, but not why: three leading scientists on AI's future in drug discovery",
+      "date": "2026 年 11 月 8 日",
+      "year": null,
+      "outlet": "人民日报英文客户端",
+      "edition": null,
+      "category": "新闻报道",
+      "column": "人物专访",
+      "language": "en",
+      "role": [
+        "英文主采（对话2013年诺贝尔化学奖得主迈克尔·莱维特）",
+        "英文主笔"
+      ],
+      "co_authors": [
+        "Gao Han",
+        "Chen Xinyue",
+        "Zhang Jiayi",
+        "Huang Xiaohui"
+      ],
+      "tags": [
+        "世界顶尖科学家论坛",
+        "AI制药",
+        "人工智能",
+        "人物专访",
+        "科学传播"
+      ],
+      "region": [
+        "中国"
+      ],
+      "summary": "在2026世界顶尖科学家论坛期间，作为英文主采对话2013年诺贝尔化学奖得主迈克尔·莱维特（Michael Levitt），并联合丹妮拉·罗兹（Daniela Rhodes）、帕斯卡尔·梅耶（Pascal Mayer）两位顶尖科学家的访谈，执笔探讨AI制药的“黑箱”争议、虚拟患者临床模拟与科学探索中人类追问“为什么”的价值。",
+      "source_url": "https://peoplesdaily.pdnews.cn/china/er/30053515484",
+      "page_url": "https://tianze-hou.github.io/Tianze-Portfolio/works/2026-11-08-when-ai-predicts-what-works-but-not-why/",
+      "metrics": null
+    },
     {
       "slug": "dajiangdong-走近科学大咖2-青年科学家",
       "title": "大江东丨 走近科学大咖②不追热点，敢闯无人区，这些年轻人为何选择逆行",
