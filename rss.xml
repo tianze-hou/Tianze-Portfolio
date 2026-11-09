@@ -5,7 +5,7 @@
     <link>https://tianze-hou.github.io/Tianze-Portfolio/</link>
     <description>侯天泽的个人作品集：新闻报道、评论、摄影、视频、数据可视化与调研报告。复旦大学新闻学院国际新闻传播硕士，曾任人民日报社拉美中心分社实习记者。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:09:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:49:41 GMT</lastBuildDate>
     <atom:link href="https://tianze-hou.github.io/Tianze-Portfolio/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>When AI predicts what works, but not why: three leading scientists on AI&apos;s future in drug discovery</title>
@@ -18,6 +18,8 @@
       <category>人工智能</category>
       <category>人物专访</category>
       <category>科学传播</category>
+      <category>科技创新</category>
+      <category>公共外交</category>
       <description>在2026世界顶尖科学家论坛期间，作为英文主采对话2013年诺贝尔化学奖得主迈克尔·莱维特（Michael Levitt），并联合丹妮拉·罗兹（Daniela Rhodes）、帕斯卡尔·梅耶（Pascal Mayer）两位顶尖科学家的访谈，执笔探讨AI制药的“黑箱”争议、虚拟患者临床模拟与科学探索中人类追问“为什么”的价值。</description>
     </item>
     <item>
@@ -30,6 +32,7 @@
       <category>青年科学家</category>
       <category>科研评价</category>
       <category>科学传播</category>
+      <category>科技创新</category>
       <description>首届青年科学家奖得主陈培宁、谢伟迪谈科研方向的选择：不追热点，去做「难度排在前 10% 的事」。</description>
     </item>
     <item>
@@ -42,6 +45,8 @@
       <category>AI制药</category>
       <category>人工智能</category>
       <category>科学传播</category>
+      <category>科技创新</category>
+      <category>公共外交</category>
       <description>2026 世界顶尖科学家论坛期间，对话莱维特、罗兹、梅耶三位科学家：患者模型能否替代人体试验，AI 会不会取代科学家。</description>
     </item>
     <item>
@@ -53,6 +58,8 @@
       <category>世界顶尖科学家论坛</category>
       <category>人工智能</category>
       <category>科学传播</category>
+      <category>科技创新</category>
+      <category>公共外交</category>
       <description>2013 年诺贝尔化学奖得主迈克尔·莱维特访谈：不用 AI 的人才会反对 AI。</description>
     </item>
     <item>
@@ -65,6 +72,8 @@
       <category>罕见病</category>
       <category>人工智能</category>
       <category>科学传播</category>
+      <category>科技创新</category>
+      <category>公共外交</category>
       <description>首届青年科学家奖得主谢伟迪访谈：罕见病药厂不大想做，那就用 AI 来做。</description>
     </item>
     <item>
@@ -86,6 +95,10 @@
       <category>新闻报道</category>
       <category>中企出海</category>
       <category>数字经济</category>
+      <category>科技创新</category>
+      <category>人文交流</category>
+      <category>拉美</category>
+      <category>中国经济</category>
       <description>离任后发稿，版面头条，由本人执笔。</description>
     </item>
     <item>
@@ -96,6 +109,10 @@
       <category>新闻报道</category>
       <category>环境治理</category>
       <category>森林保护</category>
+      <category>科技创新</category>
+      <category>华侨华人</category>
+      <category>拉美</category>
+      <category>农业合作</category>
       <description>离任后发稿，由本人执笔。</description>
     </item>
     <item>
@@ -106,6 +123,9 @@
       <category>新闻报道</category>
       <category>体育交流</category>
       <category>环球热点</category>
+      <category>中文教育</category>
+      <category>人文交流</category>
+      <category>拉美</category>
       <description>离任后发稿，里约电署名；海外版头条、半版篇幅。</description>
     </item>
     <item>
@@ -115,6 +135,10 @@
       <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
       <category>新闻报道</category>
       <category>中文教育</category>
+      <category>人文交流</category>
+      <category>拉美</category>
+      <category>体育交流</category>
+      <category>公共外交</category>
       <description>人民网</description>
     </item>
     <item>
@@ -126,6 +150,10 @@
       <category>文化遗产</category>
       <category>博物馆</category>
       <category>多语种采访</category>
+      <category>科技创新</category>
+      <category>人文交流</category>
+      <category>拉美</category>
+      <category>体育交流</category>
       <description>国际视点·头条，巴西部分由本人选题、葡西双语采访、执笔并拍摄，编辑一字未改。</description>
     </item>
     <item>
@@ -136,6 +164,8 @@
       <category>新闻报道</category>
       <category>中文教育</category>
       <category>人文交流</category>
+      <category>拉美</category>
+      <category>中国经济</category>
       <description>人民网</description>
     </item>
     <item>
@@ -146,6 +176,12 @@
       <category>新闻报道</category>
       <category>中国式现代化</category>
       <category>海外名家</category>
+      <category>科技创新</category>
+      <category>能源合作</category>
+      <category>人文交流</category>
+      <category>拉美</category>
+      <category>中国经济</category>
+      <category>国际舆论</category>
       <description>「海外名家话中国」整版，本人联络策划巴西部分采访并执笔。</description>
     </item>
     <item>
@@ -155,6 +191,7 @@
       <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
       <category>新闻报道</category>
       <category>援外医疗</category>
+      <category>拉美</category>
       <description>人民网</description>
     </item>
     <item>
@@ -176,6 +213,8 @@
       <category>新闻报道</category>
       <category>文化遗产</category>
       <category>文物追索</category>
+      <category>人文交流</category>
+      <category>拉美</category>
       <description>国际视点·头条，追索流失文物的历史正义，墨西哥部分由本人执笔。</description>
     </item>
     <item>
@@ -185,6 +224,11 @@
       <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
       <category>新闻报道</category>
       <category>中文教育</category>
+      <category>人文交流</category>
+      <category>科技创新</category>
+      <category>华侨华人</category>
+      <category>能源合作</category>
+      <category>拉美</category>
       <description>人民网</description>
     </item>
     <item>
@@ -195,6 +239,12 @@
       <category>新闻报道</category>
       <category>人工智能</category>
       <category>外媒看中国</category>
+      <category>科技创新</category>
+      <category>华侨华人</category>
+      <category>拉美</category>
+      <category>中国经济</category>
+      <category>国际舆论</category>
+      <category>农业合作</category>
       <description>外媒看中国·头条，聚焦人工智能发展与创新的关键力量，巴西部分由本人执笔。</description>
     </item>
     <item>
@@ -205,6 +255,9 @@
       <category>新闻报道</category>
       <category>中文教育</category>
       <category>人文交流</category>
+      <category>科技创新</category>
+      <category>华侨华人</category>
+      <category>拉美</category>
       <description>人民网</description>
     </item>
     <item>
@@ -215,6 +268,8 @@
       <category>新闻报道</category>
       <category>国际经济</category>
       <category>人物专访</category>
+      <category>拉美</category>
+      <category>中国经济</category>
       <description>专访古巴哈瓦那大学国际经济研究中心资深研究员费尔南德斯。</description>
     </item>
     <item>
@@ -224,6 +279,9 @@
       <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
       <category>新闻报道</category>
       <category>图片报道</category>
+      <category>人文交流</category>
+      <category>拉美</category>
+      <category>摄影</category>
       <description>世界儿童图书日图片报道，其中一张为本人拍摄。</description>
     </item>
     <item>
@@ -234,6 +292,12 @@
       <category>新闻报道</category>
       <category>国际论坛</category>
       <category>中巴关系</category>
+      <category>科技创新</category>
+      <category>能源合作</category>
+      <category>拉美</category>
+      <category>中国经济</category>
+      <category>农业合作</category>
+      <category>公共外交</category>
       <description>人民网</description>
     </item>
     <item>
@@ -244,6 +308,7 @@
       <category>新闻报道</category>
       <category>援外医疗</category>
       <category>国际论坛</category>
+      <category>拉美</category>
       <description>人民网</description>
     </item>
     <item>
@@ -254,6 +319,12 @@
       <category>新闻报道</category>
       <category>乡村振兴</category>
       <category>外媒看中国</category>
+      <category>人文交流</category>
+      <category>拉美</category>
+      <category>中国经济</category>
+      <category>农业合作</category>
+      <category>数字经济</category>
+      <category>摄影</category>
       <description>「国际人士看中国乡村全面振兴」专栏头条，选题策划与采访方向由本人负责。获中国政府网转载。</description>
     </item>
     <item>
@@ -263,6 +334,7 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
       <category>新闻报道</category>
       <category>人文交流</category>
+      <category>拉美</category>
       <description>人民网</description>
     </item>
     <item>
@@ -275,6 +347,8 @@
       <category>中国经济</category>
       <category>春节经济</category>
       <category>外媒看中国</category>
+      <category>拉美</category>
+      <category>国际舆论</category>
       <description>外国媒体和国际人士热议中国春节经济，巴西部分由本人执笔。</description>
     </item>
     <item>
@@ -285,6 +359,9 @@
       <category>新闻报道</category>
       <category>中国经济</category>
       <category>外媒看中国</category>
+      <category>科技创新</category>
+      <category>拉美</category>
+      <category>国际舆论</category>
       <description>国际舆论看好中国经济发展前景，巴西部分由本人执笔。</description>
     </item>
     <item>
@@ -295,6 +372,10 @@
       <category>新闻报道</category>
       <category>地缘政治</category>
       <category>中巴关系</category>
+      <category>人文交流</category>
+      <category>拉美</category>
+      <category>中国经济</category>
+      <category>公共外交</category>
       <description>人民网</description>
     </item>
     <item>
@@ -306,6 +387,8 @@
       <category>军事外交</category>
       <category>援外医疗</category>
       <category>中巴关系</category>
+      <category>华侨华人</category>
+      <category>拉美</category>
       <description>中国海军「丝路方舟」号医院船访问巴西始末。本人是「最后一个下船的非随船记者」。</description>
     </item>
     <item>
@@ -317,6 +400,9 @@
       <category>国际论坛</category>
       <category>中国经济</category>
       <category>权威论坛</category>
+      <category>科技创新</category>
+      <category>拉美</category>
+      <category>公共外交</category>
       <description>权威论坛整版，巴西专家夏华声（瓦加斯基金会经济学家）的采访由本人全程策划、约访、执行。</description>
     </item>
     <item>
@@ -326,6 +412,7 @@
       <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
       <category>新闻报道</category>
       <category>援外医疗</category>
+      <category>拉美</category>
       <description>人民网</description>
     </item>
     <item>
@@ -336,6 +423,7 @@
       <category>新闻报道</category>
       <category>科技创新</category>
       <category>农业合作</category>
+      <category>拉美</category>
       <description>人民网</description>
     </item>
     <item>
@@ -346,6 +434,9 @@
       <category>新闻报道</category>
       <category>人文交流</category>
       <category>公益</category>
+      <category>华侨华人</category>
+      <category>拉美</category>
+      <category>中国经济</category>
       <description>人民网</description>
     </item>
     <item>
@@ -357,6 +448,10 @@
       <category>援外医疗</category>
       <category>华侨华人</category>
       <category>人文交流</category>
+      <category>拉美</category>
+      <category>体育交流</category>
+      <category>军事外交</category>
+      <category>公共外交</category>
       <description>人民网</description>
     </item>
     <item>
@@ -368,6 +463,7 @@
       <category>科技创新</category>
       <category>农业合作</category>
       <category>乡村振兴</category>
+      <category>拉美</category>
       <description>科技小院从中国创新走向全球推广，巴西部分记录中巴家庭农业机械化合作。获央视网全文转载。</description>
     </item>
     <item>
@@ -378,6 +474,9 @@
       <category>新闻报道</category>
       <category>援外医疗</category>
       <category>军事外交</category>
+      <category>华侨华人</category>
+      <category>人文交流</category>
+      <category>拉美</category>
       <description>人民网</description>
     </item>
     <item>
@@ -389,6 +488,7 @@
       <category>能源合作</category>
       <category>中企出海</category>
       <category>能源</category>
+      <category>拉美</category>
       <description>人民网</description>
     </item>
     <item>
@@ -398,6 +498,8 @@
       <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
       <category>新闻报道</category>
       <category>地缘政治</category>
+      <category>拉美</category>
+      <category>军事外交</category>
       <description>人民网</description>
     </item>
     <item>
@@ -409,6 +511,7 @@
       <category>军事外交</category>
       <category>援外医疗</category>
       <category>短视频</category>
+      <category>拉美</category>
       <description>「人民日报国际」公众号视频作品，记录「丝路方舟」号医院船访问巴西。</description>
     </item>
     <item>
@@ -418,6 +521,7 @@
       <pubDate>Sat, 27 Dec 2025 00:00:00 GMT</pubDate>
       <category>新闻报道</category>
       <category>人文交流</category>
+      <category>拉美</category>
       <description>人民网</description>
     </item>
     <item>
@@ -428,6 +532,8 @@
       <category>新闻报道</category>
       <category>华侨华人</category>
       <category>公益</category>
+      <category>人文交流</category>
+      <category>拉美</category>
       <description>人民网</description>
     </item>
     <item>
@@ -439,6 +545,10 @@
       <category>中巴关系</category>
       <category>拉美外交</category>
       <category>公共政策</category>
+      <category>科技创新</category>
+      <category>拉美</category>
+      <category>中国经济</category>
+      <category>公共外交</category>
       <description>第三份《中国对拉丁美洲和加勒比政策文件》发布后，拉美各界的积极评价。</description>
     </item>
     <item>
@@ -449,6 +559,10 @@
       <category>新闻报道</category>
       <category>中国经济</category>
       <category>外媒看中国</category>
+      <category>科技创新</category>
+      <category>拉美</category>
+      <category>国际舆论</category>
+      <category>公共外交</category>
       <description>国际舆论关注中国在全球增长中的引擎作用，巴西部分由中国学者与媒体观点构成。</description>
     </item>
     <item>
@@ -458,6 +572,8 @@
       <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
       <category>新闻报道</category>
       <category>华侨华人</category>
+      <category>人文交流</category>
+      <category>拉美</category>
       <description>人民网</description>
     </item>
     <item>
@@ -468,6 +584,9 @@
       <category>新闻报道</category>
       <category>科技创新</category>
       <category>中巴关系</category>
+      <category>能源合作</category>
+      <category>拉美</category>
+      <category>体育交流</category>
       <description>中国—巴西科技创新中心正式启动，中巴科技合作迈入机制化阶段。</description>
     </item>
     <item>
@@ -477,6 +596,10 @@
       <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
       <category>新闻报道</category>
       <category>中文教育</category>
+      <category>人文交流</category>
+      <category>拉美</category>
+      <category>体育交流</category>
+      <category>公共外交</category>
       <description>人民网</description>
     </item>
     <item>
@@ -486,6 +609,11 @@
       <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
       <category>新闻报道</category>
       <category>科技创新</category>
+      <category>能源合作</category>
+      <category>拉美</category>
+      <category>体育交流</category>
+      <category>数字经济</category>
+      <category>公共外交</category>
       <description>人民日报海外版 · 第 6 版 国际观察</description>
     </item>
     <item>
@@ -496,6 +624,10 @@
       <category>新闻报道</category>
       <category>国际论坛</category>
       <category>公共外交</category>
+      <category>人文交流</category>
+      <category>拉美</category>
+      <category>中国经济</category>
+      <category>国际舆论</category>
       <description>人民网</description>
     </item>
     <item>
@@ -505,6 +637,10 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
       <category>新闻报道</category>
       <category>科技创新</category>
+      <category>能源合作</category>
+      <category>拉美</category>
+      <category>数字经济</category>
+      <category>公共外交</category>
       <description>人民网</description>
     </item>
     <item>
@@ -516,6 +652,7 @@
       <category>能源合作</category>
       <category>中企出海</category>
       <category>新能源</category>
+      <category>拉美</category>
       <description>人民网</description>
     </item>
   </channel>
